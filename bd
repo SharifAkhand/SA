@@ -116,6 +116,33 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/MT3LQnWM/download-5.jpg",TNT Sports
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/8kMJLy8x/download-3.jpg",Bol Hadippa
+https://live.hungama.com/linear/bol-hadippa/playlist.m3u8?token=soheliptv01826655778
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/sX3tS76V/alJj9sb.jpg",Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/LspTDn6R/056bb4aa-a8a4-48d1-bad0-22b18089d22d.jpg",Desi Channel
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/j52Mt2wq/image.png",Dil Se
+https://live.hungama.com/linear/dil-se/playlist.m3u8?token=soheliptv01826655778
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/KzZQbtLb/Jo7wzmn.png",Gaan Bangla HD
+http://208.86.19.13:81/612.stream/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/g0C32DBt/DJhTTmR.png",Music India
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangla", Ekusey TV
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://scontent.fjsr8-1.fna.fbcdn.net/v/t1.6435-9/224742918_1719985508193751_117441876561677137_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEdyVdQwd10SVDfHTgDby4xsw4hmGMgM-KzDiGYYyAz4jJGCMG36pCw-fwAXMhPT4iGs7SJtVNZ6Jd3r44iylf8&_nc_ohc=EoP0MBj_MooAX_svjz9&_nc_ht=scontent.fjsr8-1.fna&oh=0c1ec4d5b6ae6956d1e159eea051e0d3&oe=61A0CB32" group-title="",NAZMUL WI-FI ZONE
+https://rebrand.ly/livetv420
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/2PQfcOh.png",Jalsha Movies HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3412
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/Tp3Kead.png",Enter 10 Bangla
+http://14.199.164.20:4001/play/a0j5/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/34JhaxQ.jpg",MyCinema Europe
+http://210.210.155.35/uq2663/h/h18/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Europe_HD
+#EXTINF:-1 group-title="Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png",Zee Bioskop
+http://210.210.155.35/qwr9ew/s/s32/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Zee_Bioskop
 
 
 
