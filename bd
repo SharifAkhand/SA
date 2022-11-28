@@ -1,15 +1,15 @@
 # SA-iptv
 IPTV
 EXTM3U
-#EXTINF:-1  tvg-name="WC 2" tvg-id="" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" :http-referrer="",WC 1
+#EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sharif Akhand-WC 1
 http://obsfullhd.tv:25461/@TacosTv1/Zm4SGThdhdiurjr/48686
-#EXTINF:-1  tvg-name="WC 2" tvg-id="" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" :http-referrer="",WC 2
+#EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sharif Akhand-WC 2
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/40574
-#EXTINF:-1  tvg-name="WC 2" tvg-id="" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" :http-referrer="",WC 3
+#EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sharif Akhand-WC 3
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/40575
-#EXTINF:-1  tvg-name="WC 2" tvg-id="" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" :http-referrer="",WC 4
+#EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sharif Akhand-WC 4
 http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43852
-#EXTINF:-1  tvg-name="WC 2" tvg-id="" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" :http-referrer="",WC 5
+#EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sharif Akhand-WC 5
 http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/16
-#EXTINF:-1  tvg-name="WC 2" tvg-id="" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" :http-referrer="",WC 6
+#EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sharif Akhand-WC 6
 http://obsfullhd.tv:25461/@TacosTv1/Zm4SGThdhdiurjr/163
