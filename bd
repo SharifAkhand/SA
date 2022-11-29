@@ -184,7 +184,7 @@ https://sabbirhasan.pythonanywhere.com/dplus/tlc-hin
 
 
 Hindi
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Entertainment-Television-New-Logo.png""  group-title="Hindi",Sony
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Entertainment-Television-New-Logo.png""  group-title="Hindi", Sony
 http://45.232.210.1:8062/play/a0b5/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/g0C32DBt/DJhTTmR.png""  group-title="Music",Music India
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
