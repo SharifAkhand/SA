@@ -5,7 +5,7 @@ EXTM3U
 http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg"" group-title="Sports",VTV6 
 http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg"" group-title="Sports",Bein Sports MAX 3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg"" group-title="Sports", Bein Sports MAX 3
 http://175.107.244.52:4457/play/a06z
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg"" group-title="Sports",MBC
 http://123.254.72.24:1935/tvlive/livestream2/chunklist_w431937155.m3u8
@@ -23,7 +23,7 @@ https://sabbirhasan.pythonanywhere.com/worldcup/premium-fs1
 https://streaming.astrakhan.ru/astrakhanrusporthd/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/MT3LQnWM/download-5.jpg"" group-title="Sports",TNT Sports
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
-#EXTINF:-1 group-title="Sports" " tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg"" group-title="Sports",Bein Sports MAX 3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg"" group-title="Sports", Bein Sports MAX 3
 http://175.107.244.52:4457/play/a06z
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg"" group-title="Sports",Direct Sports
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
