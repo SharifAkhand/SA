@@ -124,6 +124,33 @@ http://103.159.4.38:8080/BD-BANGLA-7/tracks-v1a1/mono.m3u8
 http://103.205.133.40/hls/dbcnews.m3u8
 #EXTINF:-98 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-pictures-hd-logo-300x300.jpg" group-title="Movi", and Pictures HD
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://channeltt.tv/uploads/meta_image/small-logo.png" group-title="Bangla",Channel TT IPTV
+https://2-fss-2.themediacdn.com/pl_118/amlst:201982-1318992/playlist.m3u8?Live-TV™
+#EXTINF:-1 tvg-logo="http://channel23.tv/wp-content/uploads/2021/08/23-logo.png" group-title="Bangla", Channel 23
+http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla HD [1]
+http://173.199.120.51/hls/zeebanglahd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD 2
+http://feed.play.mv/live/10005200/7Lc21Ikj4q/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD1
+http://173.199.120.51/hls/chsp.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD2
+http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2012/04/sahara-one-logo-1.jpg" group-title="Hindi",SAHARA ONE
+http://123.249.76.157:10020/bysid/1
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngFx0fbIvgK8rehQj_oVCIyiVay0diGJwLqU_oXdw=s900-c-k-c0x00ffffff-no-rj" group-title="Islamic",Madni tv Bangla
+https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports [3]
+http://otv.ftpbd.net/streams/121/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="Sports",Sony Ten 1
+http://otv.ftpbd.net/streams/122/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3
+https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Discovery", Animal Planet HD
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+
 
 
 
