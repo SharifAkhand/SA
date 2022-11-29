@@ -184,8 +184,7 @@ https://sabbirhasan.pythonanywhere.com/dplus/tlc-hin
 
 
 Hindi
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Entertainment-Television-New-Logo.png""  group-title="Hindi", Sony
-http://45.232.210.1:8062/play/a0b5/index.m3u8
+
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/g0C32DBt/DJhTTmR.png""  group-title="Music",Music India
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
 #EXTINF:-1 tvg-id="584" group-title="Music" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png""  group-title="Music",Mastiii
@@ -195,6 +194,10 @@ https://live.hungama.com/linear/dil-se/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartun", Nick
 https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
 
+
+
+#EXTINF:-1 tvg-id="144" group-title="Hindi" tvg-language="Hindi" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Entertainment-Television-New-Logo.png""  group-title="Hindi",Sony
+http://45.232.210.1:8062/play/a0b5/index.m3u8
 #EXTINF:-1 tvg-id="144" group-title="Hindi" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png""  group-title="Hindi",Colors HD
 https://tv.googledrivelinks.com:443/autoq.php?c=Colors_HD
 #EXTINF:-1 tvg-id="291" group-title="Hindi" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png""  group-title="Hindi",Sony HD
