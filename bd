@@ -12,6 +12,48 @@ http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43852
 #EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sharif Akhand-WC 5
 http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/16
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/D0zTS6BR/600x600.png",beIN SPORTS XTRA
+https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/D0zTS6BR/600x600.png",beIN SPORTS XTRA
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/mk3QfJwk/download-16.jpg",Sports TV
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/nhtTP4rY/download-4.jpg",SSC 1 HD
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/N0XpJTj5/Untitled.png",SSC 5 HD
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/38c9aca1b6bb4239bb7ca409548a2762/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/L5rr1bKQ/Star-Sports1-Hindi.jpg",Star Sports 1 HD Hindi
+http://103.162.136.235:4500/play/a017/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/GtRbRF1b/ytL56ZP.jpg",Star Sports 1 HD
+http://103.162.136.235:4500/play/a015/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/dtDx17tF/gfdFTYm.png",Star Sports 2 HD
+http://208.86.19.13:81/715.stream/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/dtDx17tF/gfdFTYm.png",Star Sports 2 HD
+http://103.162.136.235:4500/play/a016/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/ZnxdB0QW/Star-Sports-3-HD-Logo.png",Star Sports 3 HD
+http://103.162.136.235:4500/play/a013/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/tCSRmXdF/Starsportss1.jpg",Star Sports Select 1 HD
+http://103.162.136.235:4500/play/a00v/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/PqGjBNCv/Starsportss2.jpg",Star Sports Select 2 HD
+http://103.162.136.235:4500/play/a00w/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/023FZ1wP/TBBDXLU.png",T Sports HD
+http://103.159.4.38:9191/CH2-SP2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/vmT9k8CZ/vsBKeDw.png",Discovery HD Hindi
+http://103.162.136.235:4500/play/a008/index.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/Hx1PS8kS/XBz4I65.png",Discovery Science
+http://103.162.136.235:4500/play/a00y/index.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/QCzr1yPy/CEwsPtb.png",Mystery Science
+https://mst3k-stirr-us.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/nzLTypBm/NasaTV.jpg",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/g28Z2QmT/download-8.png",National Geographic Abu Dhabi
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/ZKb1Nr6v/m7Cl2M9.png",National Geographic HD
+http://103.162.136.235:4500/play/a007/index.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/tJSvB5vq/5e5bd355-2983-4655-aa98-0ab9ed0e16ef.png",Sword and Shield
+https://a.jsrdn.com/broadcast/9e63a1b236/+0000/c.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/2SmnjLf9/download-15.jpg",Titanic TV
+https://a.jsrdn.com/broadcast/e6bdcb5ae9/+0000/mid/c.m3u8
 
 
 
