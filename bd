@@ -58,5 +58,16 @@ https:\\cdn.appv.jagobd.com:444\c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 https:\\cdn.appv.jagobd.com:444\c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI\deshebideshe.stream\playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/MH-gJcYm077DRXA1gkfbxgKPN8pXTKM9MrJyUqOeZSXCP9Kzzc6yf9lcToajFEiCgub9p1Zu9yTk1nV3VNoKAnsHVY6dF5JV0CdPtA_djauWvLOi2ePvP-bAq6YURS8" group-title="Bangla", Doyel TV
 http:\\ipm.oncast.me:1934\iplived\ip-doyeltv.stream\playlist.m3u8
+http:\\42.200.67.163:8090\play\a0pd
+#EXTINF:0 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="Music",Gaan Bangla HD
+http:\\208.86.19.13:81\612.stream\index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla", Duronto TV 
+http:\\89.187.185.89:3232\ban-duronto\index.m3u8
+
+
+
+Hindi
+#EXTINF:104, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Zing_2011_logo.png/1200px-Zing_2011_logo.png" tvg-name="ZEE Zing "  group-title="Music",ZEE Zing 
+
 
 
