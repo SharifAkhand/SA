@@ -42,6 +42,9 @@ Bangla
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/NfRjZn6W/A0EWDDo.png" group-title="Bangla",Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla", Sony Aath
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6641/index.m3u8
+
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/PrWrJTPW/58Mkc4.png" group-title="Bangla",Amar bangla
 http://stream1.livebox.co.in/kbcreationhls/live.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/wMKwP3H8/uP36aiN.jpg" group-title="Bangla",Colors Bangla Cinema HD
@@ -120,6 +123,8 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Music", Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ESWXan9.png" group-title="Islamic", ATN Islamic
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NNrhMTT/ATN-Music.jpg" group-title="Music", Atn Music
@@ -130,15 +135,22 @@ http://nandansyst.com/hls/nandan.m3u8?token=soheliptv01826655778
 http://162.244.81.142:1935/live/livestream/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kappa_tv_in.png" group-title="Bangla", Kappa TV
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangla",  52 TV
+http://str24.l9574.com/503.stream/index.m3u8
+
+
+
 
 
 
 
 Hindi
-#EXTINF:104, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Zing_2011_logo.png/1200px-Zing_2011_logo.png" tvg-name="ZEE Zing "  group-title="Music",ZEE Zing 
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/g0C32DBt/DJhTTmR.png""  group-title="Music",Music India
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/j52Mt2wq/image.png""  group-title="Music",Dil Se
 https://live.hungama.com/linear/dil-se/playlist.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartun", Nick
+https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
+
 
