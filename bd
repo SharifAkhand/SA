@@ -205,7 +205,7 @@ https://tv.googledrivelinks.com:443/autoq.php?c=Zee_TV_HD
 https://tv.googledrivelinks.com:443/autoq.php?c=Sony_Max_HD
 #EXTINF:-1 tvg-id="165" group-title="Hindi" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png""  group-title="Hindi",Zee Cinema HD
 https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Cinema_HD
-#EXTINF:-1 tvg-id="155" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png""  group-title="Sports",Sony Six HD
+#EXTINF:-1 tvg-id="155" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png""  group-title="Sports", Sony Six HD
 https://tv.googledrivelinks.com:443/autoq.php?c=Six_HD
 #EXTINF:-1 tvg-id="154" group-title="Hindi" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png""  group-title="Hindi",Sony SAB
 https://tv.googledrivelinks.com:443/autoq.php?c=Sony_SAB
