@@ -183,12 +183,86 @@ https://sabbirhasan.pythonanywhere.com/dplus/tlc-hin
 
 
 Hindi
-
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Entertainment-Television-New-Logo.png""  group-title="Hindi",Sony
+http://45.232.210.1:8062/play/a0b5/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/g0C32DBt/DJhTTmR.png""  group-title="Music",Music India
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
+#EXTINF:-1 tvg-id="584" group-title="Music-SabbirIPTV" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png""  group-title="Music",Mastiii
+https://tv.googledrivelinks.com:443/autoq.php?c=Mastiii
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/j52Mt2wq/image.png""  group-title="Music",Dil Se
 https://live.hungama.com/linear/dil-se/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartun", Nick
 https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
 
+#EXTINF:-1 tvg-id="144" group-title="Entertainment-SabbirIPTV" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png""  group-title="Hindi",Colors HD
+https://tv.googledrivelinks.com:443/autoq.php?c=Colors_HD
+#EXTINF:-1 tvg-id="291" group-title="Entertainment-SabbirIPTV" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png""  group-title="Hindi",Sony HD
+https://tv.googledrivelinks.com:443/autoq.php?c=Sony_HD
+#EXTINF:-1 tvg-id="167" group-title="Entertainment-SabbirIPTV" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png""  group-title="Hindi",Zee TV HD
+https://tv.googledrivelinks.com:443/autoq.php?c=Zee_TV_HD
+#EXTINF:-1 tvg-id="476" group-title="Movies-SabbirIPTV" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png""  group-title="Hindi",Sony Max HD
+https://tv.googledrivelinks.com:443/autoq.php?c=Sony_Max_HD
+#EXTINF:-1 tvg-id="165" group-title="Movies-SabbirIPTV" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png""  group-title="Hindi",Zee Cinema HD
+https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Cinema_HD
+#EXTINF:-1 tvg-id="155" group-title="Sports-SabbirIPTV" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png""  group-title="Hindi",Sony Six HD
+https://tv.googledrivelinks.com:443/autoq.php?c=Six_HD
+#EXTINF:-1 tvg-id="154" group-title="Entertainment-SabbirIPTV" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png""  group-title="Hindi",Sony SAB
+https://tv.googledrivelinks.com:443/autoq.php?c=Sony_SAB
+#EXTINF:-1 tvg-id="472" group-title="Entertainment-SabbirIPTV" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png""  group-title="Hindi",And TV HD
+https://tv.googledrivelinks.com:443/autoq.php?c=And_TV_HD
+#EXTINF:-1 tvg-id="279" group-title="Entertainment-SabbirIPTV" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png""  group-title="Hindi",Rishtey
+https://tv.googledrivelinks.com:443/autoq.php?c=Rishtey
+#EXTINF:-1 tvg-id="473" group-title="Entertainment-SabbirIPTV" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png""  group-title="Hindi",Zee Anmol
+https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Anmol
+#EXTINF:-1 tvg-id="474" group-title="Entertainment-SabbirIPTV" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png""  group-title="Hindi",Sony Pal
+https://tv.googledrivelinks.com:443/autoq.php?c=Sony_Pal
+#EXTINF:-1 tvg-id="471" group-title="Entertainment-SabbirIPTV" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB HD
+https://tv.googledrivelinks.com:443/autoq.php?c=Sony_SAB_HD
+#EXTINF:-1 tvg-id="445" group-title="Entertainment-SabbirIPTV" tvg-language="Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png""  group-title="Hindi",Zee Marathi
+https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Marathi
+#EXTINF:-1 tvg-id="755" group-title="Entertainment-SabbirIPTV" tvg-language="Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png""  group-title="Hindi",Colors Marathi HD
+https://e47f-3-111-119-175.in.ngrok.io/YASHRAJ-jio//live.php?c=Colors_Marathi_HD
+#EXTINF:-1 tvg-id="757" group-title="Entertainment-SabbirIPTV" tvg-language="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png""  group-title="Hindi",Colors Kannada HD
+https://tv.googledrivelinks.com:443/autoq.php?c=Colors_Kannada_HD
+#EXTINF:-1 tvg-id="689" group-title="Entertainment-SabbirIPTV" tvg-language="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada.png""  group-title="Hindi",Zee Kannada
+https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Kannada
+#EXTINF:-1 tvg-id="1157" group-title="Entertainment-SabbirIPTV" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png""  group-title="Hindi",Comedy Central HD
+https://tv.googledrivelinks.com:443/autoq.php?c=Comedy_Central_HD
+#EXTINF:-1 tvg-id="638" group-title="Entertainment-SabbirIPTV" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png""  group-title="Hindi",Zee Telugu
+https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Telugu
+#EXTINF:-1 tvg-id="628" group-title="Entertainment-SabbirIPTV" tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png""  group-title="Hindi",Zee Tamil
+https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Tamil
+#EXTINF:-1 tvg-id="196" group-title="Entertainment-SabbirIPTV" tvg-language="Gujarati" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png""  group-title="Hindi",Colors Gujarati
+https://tv.googledrivelinks.com:443/autoq.php?c=Colors_Gujarati
+#EXTINF:-1 tvg-id="625" group-title="Entertainment-SabbirIPTV" tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png""  group-title="Bangla",Zee Bangla
+https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Bangla
+#EXTINF:-1 tvg-id="1158" group-title="Entertainment-SabbirIPTV" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png""  group-title="Hindi",Colors Infinity HD
+https://tv.googledrivelinks.com:443/autoq.php?c=Colors_Infinity_HD
+#EXTINF:-1 tvg-id="414" group-title="Entertainment-SabbirIPTV" tvg-language="Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png""  group-title="Hindi",Zee Yuva
+https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Yuva
+#EXTINF:-1 tvg-id="532" group-title="Entertainment-SabbirIPTV" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png""  group-title="Hindi",Dabangg
+https://tv.googledrivelinks.com:443/autoq.php?c=Daba
+
+
+https://tv.googledrivelinks.com:443/autoq.php?c=SET_MAX
+#EXTINF:-1 tvg-id="483" group-title="Movies-SabbirIPTV" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png""  group-title="Hindi",Sony MAX2
+https://tv.googledrivelinks.com:443/autoq.php?c=Sony_MAX2
+#EXTINF:-1 tvg-id="185" group-title="Movies-SabbirIPTV" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png""  group-title="Hindi",And Pictures HD
+https://tv.googledrivelinks.com:443/autoq.php?c=And_Pictures_HD
+#EXTINF:-1 tvg-id="484" group-title="Movies-SabbirIPTV" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png""  group-title="Hindi",Zee Cinema
+https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Cinema
+#EXTINF:-1 tvg-id="182" group-title="Movies-SabbirIPTV" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png""  group-title="Hindi",B4U Movies
+https://tv.googledrivelinks.com:443/autoq.php?c=B4U_Movies
+#EXTINF:-1 tvg-id="487" group-title="Movies-SabbirIPTV" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png""  group-title="Hindi",Zee Bollywood
+https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Classic
+#EXTINF:-1 tvg-id="486" group-title="Movies-SabbirIPTV" tvg-language="Bhojpuri" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png""  group-title="Hindi",Bhojpuri Cinema
+https://tv.googledrivelinks.com:443/autoq.php?c=Bhojpuri_Cinema
+#EXTINF:-1 tvg-id="485" group-title="Movies-SabbirIPTV" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png""  group-title="Bangla",Enterr 10
+https://tv.googledrivelinks.com:443/autoq.php?c=Enterr_10
+#EXTINF:-1 tvg-id="488" group-title="Movies-SabbirIPTV" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png""  group-title="Hindi",Zee Action
+https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Actio
+#EXTINF:-1 tvg-id="413" group-title="Movies-SabbirIPTV" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png""  group-title="Hindi",Zee Cinemalu
+https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Cinemalu
+#EXTINF:-1 tvg-id="415" group-title="Movies-SabbirIPTV" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png""  group-title="Hindi",Zee Anmol Cinema
+https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Anmol_Cinema
 
