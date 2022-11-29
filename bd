@@ -116,6 +116,57 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/MT3LQnWM/download-5.jpg",TNT Sports
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://amrbd.com/assets/images/ten1hd.jpg",Sony Ten 1 HD (BDIX14)
+http://103.55.144.46/hls/sonyten1.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://amrbd.com/assets/images/ten2hd.jpg",Sony Ten 2 (BDIX14)
+http://103.55.144.46/hls/sonyten2.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://amrbd.com/assets/images/ten3hd.jpg",Sony Ten 3 HD (BDIX14)
+http://103.55.144.46/hls/sonyten3.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://amrbd.com/assets/images/sonysixhd.jpg",Sony Six HD (BDIX14)
+http://103.55.144.46/hls/sonysix.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://ihub.live/uploads/tv_image/sm/star-sports-1.jpg",Star Sports 1 HD (BDIX14)
+http://103.55.144.46/hls/stersports1hd.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://pasteboard.co/Bvl76yaECDCH.png",Star Sports 2 HD (BDIX14)
+http://103.55.144.46/hls/starsports2.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://pasteboard.co/PWnVgfkY9RTB.png",Star Sports Select 2 HD  (BDIX14)
+http://103.55.144.46/hls/select2.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://pasteboard.co/PWnVgfkY9RTB.png",Star Sports Select 2 HD   (BDIX5)
+http://103.102.27.172:6464/Channel-4/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.foxsports.com.au/digital/images/livestreams/fsnlivestream/FSN_Live_Stream_Start.jpg",FOX Sports News HD (akamai)
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.red24artists.com/wp-content/uploads/2016/10/Becky-Ives-Red-Bull-TV-690x450.jpg",Red Bull TV Sports (akamai)
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%201%40.jpg",Sony Ten 1(BDIX)
+http://103.159.4.38:9191/CH7-SP7/index.m3u8
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%202.png",Sony Ten 2(BDIX)
+http://103.159.4.38:9191/CH8-SP8/index.m3u8
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Six.png",Sony Six(BDIX)
+http://103.159.4.38:9191/CH6-SP6/index.m3u8
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Six.png",Sony Six(BDIX)
+http://103.159.4.38:9191/CH1-SP1/index.m3u8
+#EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png",PTV Sports(BD)
+http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png",PTV Sports(BDIX)
+http://103.159.4.38:9191/CH9-SP9/index.m3u8
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%201.jpeg",Bein Sports 1(BDIX)
+http://103.159.4.38:9191/CH4-SP4/index.m3u8
+#EXTINF:-1 ,ESPN 3 HD 🇦🇷
+http://200.24.132.99:8000/play/a02w
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/8kMJLy8x/download-3.jpg",Bol Hadippa
 https://live.hungama.com/linear/bol-hadippa/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/sX3tS76V/alJj9sb.jpg",Boogle Bollywood
