@@ -189,7 +189,7 @@ Hindi
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/g0C32DBt/DJhTTmR.png""  group-title="Music",Music India
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
-#EXTINF:-1 tvg-id="584" group-title="Music" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png""  group-title="Music",Mastiii
+#EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcZg9E7Hav78DIOawgvgJDIU5qA-5dfM79MpXV4Jd5&s""  group-title="Music",Mastiii
 https://tv.googledrivelinks.com:443/autoq.php?c=Mastiii
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/j52Mt2wq/image.png""  group-title="Music",Dil Se
 https://live.hungama.com/linear/dil-se/playlist.m3u8?token=soheliptv01826655778
@@ -267,9 +267,9 @@ https://tv.googledrivelinks.com:443/autoq.php?c=Bhojpuri_Cinema
 https://tv.googledrivelinks.com:443/autoq.php?c=Enterr_10
 #EXTINF:-1 tvg-id="488" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png""  group-title="Hindi",Zee Action
 https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Actio
-#EXTINF:-1 tvg-id="413" group-title="Hindi"tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png""  group-title="Hindi",Zee Cinemalu
+#EXTINF:-1 tvg-id="413" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png""  group-title="Hindi",Zee Cinemalu
 https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Cinemalu
-#EXTINF:-1 tvg-id="415" group-title="Hindi"tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png""  group-title="Hindi",Zee Anmol Cinema
+#EXTINF:-1 tvg-id="415" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png""  group-title="Hindi",Zee Anmol Cinema
 https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Anmol_Cinema
 
 
