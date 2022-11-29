@@ -38,6 +38,14 @@ http://175.107.244.52:4457/play/a06z
 
 
 Bangla
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/mZcSBBgy/download-9.jpg" group-title="Bangla",Khushboo Bangla
+http://idvd.multitvsolution.com/idvo/khushboo.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/NfRjZn6W/A0EWDDo.png" group-title="Bangla",Sony Aath
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/PrWrJTPW/58Mkc4.png" group-title="Bangla",Amar bangla
+http://stream1.livebox.co.in/kbcreationhls/live.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/wMKwP3H8/uP36aiN.jpg" group-title="Bangla",Colors Bangla Cinema HD
+http://208.86.19.13:81/907.stream/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDNM6A9aaPW8LNYs4_x5Zdm2yQ1kaSs9wZFA&usqp=CAU" group-title="Movi", Entar 10 Movie
 http://karostream.tulix.tv/ENTER10MOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/vBM4pt1t/download.png" group-title="Bangla",Jonack
