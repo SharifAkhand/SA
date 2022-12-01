@@ -352,6 +352,10 @@ https://tv.googledrivelinks.com:443/autoq.php?c=B4U_Music
 https://tv.googledrivelinks.com:443/autoq.php?c=Zoom
 #EXTINF:-1 tvg-id="248" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png""  group-title="Music",MTV
 https://tv.googledrivelinks.com:443/autoq.php?c=MTV
+#EXTINF:-1 tvg-id="592" group-title="Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Bindass.png/revision/latest?cb=20190720101806""  group-title="Music",Bindass
+https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="248" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png""  group-title="Music",8X music
+http://144.217.70.181:9587/hin2/8XM/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="248" group-title="Music" tvg-logo="https://bestmediainfo.com/uploads/2016/09/mtv-beats-top.jpg""  group-title="Music",MTV BEATES HD
 http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="440" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png""  group-title="Music",9X Jalwa
@@ -511,6 +515,10 @@ http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8?token=test
 http://210.210.155.35/uq2663/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Family_Channel_Trial-
 #EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png""  group-title="Movi",Zee_Bioskop
 http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png""  group-title="Movi",HBO
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+
 #http://210.210.155.35/qwr9ew/s/s32/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Zee_Bioskop
 #EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545""  group-title="Movi",B4U MOVIES
 http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
@@ -519,5 +527,15 @@ http://103.199.160.85/Content/moviehouse/Live/Channel%28MovieHouse%29/index.m3u8
 #http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png""  group-title="Movi",MON TAMIL TV
 http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png""  group-title="Movi",Star Gold HD
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png""  group-title="Movi",Star Gold 2
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
+
+
+#EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg""  group-title="Movi",Zee Cinema HD Test
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
+
+
 
 
