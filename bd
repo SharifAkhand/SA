@@ -1,6 +1,16 @@
 # SA-iptv
 IPTV
 EXTM3U
+#EXTINF:-1 group-title="Sports" tvg-logo="http://worldiptv.xyz/chlogos/TelekomSport3.ro.png"" group-title="Sports",TelekomSport 3 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/71052
+#EXTINF:-1 group-title="Sports" tvg-logo="http://worldiptv.xyz/chlogos/TelekomSport2.ro.png"" group-title="Sports",TelekomSport 2 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/71051
+#EXTINF:-1 group-title="Sports" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport4.ro.png"" group-title="Sports",DigiSport4 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/70947
+#EXTINF:-1 group-title="Sports" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport1.ro.png"" group-title="Sports",DigiSport1 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/70943
+#EXTINF:-1 group-title="Sports" tvg-logo="http://worldiptv.xyz/chlogos/ZiggoSport.nl.png"" group-title="Sports",ZIGGO Sports
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/71389
 #EXTINF:-1 group-title="Sports" tvg-logo="http://worldiptv.xyz/chlogos/FreeSports.uk.png"" group-title="Sports",Free Sports
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/94918
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg"" group-title="Sports",ANTV
