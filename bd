@@ -333,6 +333,10 @@ https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8
 
 
 
+#EXTINF:-1 tvg-id="144" group-title="Hindi" tvg-logo="https://www.fashioncentral.pk/wp-content/uploads/2013/12/hum-sitaray.jpg""  group-title="Hindi",HUM Sitary PK
+http://208.86.19.13:81/692.stream/index.m3u8
+#EXTINF:-1 tvg-id="144" group-title="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Express_News_logo.png""  group-title="Hindi",EXpress PK
+http://208.86.19.13:81/643.stream/index.m3u8
 #EXTINF:-1 tvg-id="144" group-title="Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Star_bharat_hd_clean.png/revision/latest/scale-to-width-down/250?cb=20210520182310""  group-title="Hindi",Star Bharat HD
 http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
 #EXTINF:-1 tvg-id="144" group-title="Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/SET_HD_2013.jpg/revision/latest?cb=20180625125753""  group-title="Hindi", Sony
@@ -421,3 +425,12 @@ http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8?token=test
 http://210.210.155.35/uq2663/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Family_Channel_Trial-
 #EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png""  group-title="Movi",Zee_Bioskop
 http://210.210.155.35/qwr9ew/s/s32/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Zee_Bioskop
+#EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545""  group-title="Movi",B4U MOVIES
+http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest?cb=20200320100818""  group-title="Movi",B4u KADAK
+http://103.199.160.85/Content/moviehouse/Live/Channel%28MovieHouse%29/index.m3u8
+
+
+
+
+
