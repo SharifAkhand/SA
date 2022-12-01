@@ -396,6 +396,8 @@ https://tv.googledrivelinks.com:443/autoq.php?c=Colors_Kannada_HD
 https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Kannada
 #EXTINF:-1 tvg-id="1157" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png""  group-title="Hindi",Comedy Central HD
 https://tv.googledrivelinks.com:443/autoq.php?c=Comedy_Central_HD
+#EXTINF:-1 tvg-id="1157" group-title="Hindi" tvg-logo="https://i.postimg.cc/0Nm4xLcF/mvtv.jpg""  group-title="Hindi",Magnavision TV
+https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
 #EXTINF:-1 tvg-id="638" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png""  group-title="Movi",Zee Telugu
 https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Telugu
 #EXTINF:-1 tvg-id="628" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png""  group-title="Movi",Zee Tamil
@@ -416,12 +418,19 @@ http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 https://tv.googledrivelinks.com:443/autoq.php?c=Sony_Max_HD
 #EXTINF:-1 tvg-id="165" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png""  group-title="Movi",Zee Cinema HD
 https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Cinema_HD
+#EXTINF:-1 tvg-id="165" group-title="Movi" tvg-logo="https://i.postimg.cc/jqvd8C9d/JEL1MNo.png""  group-title="Movi",MK SIX
+http://idvd.multitvsolution.com/idvo/mksix.m3u8
+#EXTINF:-1 tvg-id="165" group-title="Movi" tvg-logo="https://i.postimg.cc/ZYLQyX02/ci33zkV.jpg""  group-title="Movi",Santhora ShortFlim
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
+#EXTINF:-1 tvg-id="165" group-title="Movi" tvg-logo="https://i.postimg.cc/wjTv5K6r/JUrBZTZ.png""  group-title="Movi",Sooriyan TV
+http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
+#EXTINF:-1 tvg-id="165" group-title="Movi" tvg-logo="https://i.postimg.cc/Bn6c4jSx/download-3.png""  group-title="Movi",CinemaWorld
+http://210.210.155.35:80/dr9445/h/h04/01.m3u8
 
 
 
-
-
-
+#EXTINF:-1 tvg-id="483" group-title="Movi" tvg-logo="https://i.postimg.cc/NMbBNQGB/kcv-movies.jpg""  group-title="Movi",KCV Movies
+http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="483" group-title="Movi" tvg-logo="https://i.ibb.co/hXjTT6q/Booglebolly.jpg""  group-title="Movi",Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 tvg-id="483" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png""  group-title="Movi",Sony MAX2
