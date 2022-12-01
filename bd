@@ -147,12 +147,12 @@ http://208.86.19.13:81/663.stream/index.m3u8
 
 
 Bangla
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://sarabangla.net/wp-content/uploads/2022/02/Nagorik-TV-Logo.jpg" group-title="Bangla",Nagorik Tv
+https://cdn.appv.jagobd.com:444/live-orgin/nrb-eu.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/D1K9xTh/Channel9.jpg" group-title="Bangla",CHANNEL 9
 http://208.86.19.13:81/676.stream/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://atnbanglauk.tv/wp-content/uploads/2015/04/sized1.png" group-title="Bangla",ATN Bangla UK
 http://87.212.248.44:60230/play/a05g/index.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://thelogofinder.com/wp-content/uploads/edd/2021/11/Iqra-Bangla.png" group-title="Bangla",Iqra Bangla
-https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://cdn6.aptoide.com/imgs/1/0/3/103804d723a156bca1b93c227781161b_icon.png" group-title="Bangla", BanglachannelNY
 http://jupiter.bdcabletv.com/BanglachannelNY/video.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest/scale-to-width-down/300?cb=20210509180125" group-title="Bangla", Zee Bangla HD
@@ -239,8 +239,6 @@ https://cdn.appv.jagobd.com:444/live-orgin/deshebideshe.stream/chunks.m3u8
 http://ipm.oncast.me:1934/iplived/ip-doyeltv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="Music",Gaan Bangla HD
 http://208.86.19.13:81/612.stream/index.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla", Duronto TV 
-http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Bangla", Bangla Tv
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/live-orgin/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo=”https://i.imgur.com/4imblNY.jpg" group-title="Bangla", Mohona TV
@@ -273,14 +271,6 @@ http://208.86.19.13:81/509.stream/index.m3u8
 http://208.86.19.13:81/504.stream/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mathrubhumi_news.svg/1200px-Mathrubhumi_news.svg.png" group-title="Music", Matri Bhumi
 http://tv.anwarlinkisp.com:1895/live/bangladesh/playlist.m3u8
-
-
-
-
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/ESWXan9.png" group-title="Bangla", ATN Islamic
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/NNrhMTT/ATN-Music.jpg" group-title="Bangla", Atn Music
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/7HplreU.jpg" group-title="Bangla", Nandan TV
 http://nandansyst.com/hls/nandan.m3u8?token=soheliptv01826655778
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://162.244.81.142:1935" group-title="Bangla",  I TV
@@ -294,8 +284,14 @@ https://tv.googledrivelinks.com:443/autoq.php?c=Ra
 
 
 
-
-
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://i.imgur.com/ESWXan9.png" group-title="Islamic", ATN Islamic
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/QuranTVSA.png"" group-title="Islamic",Quran Tv
+http://m.live.net.sa:1935/live/quran/chunklist_w1932438352.m3u8
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj"" group-title="Islamic",Makkah Live
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://thelogofinder.com/wp-content/uploads/edd/2021/11/Iqra-Bangla.png" group-title="Islamic",Iqra Bangla
+https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
 
 
 
@@ -308,6 +304,8 @@ https://wildearth-roku.amagi.tv/master.m3u8
 https://xplore-roku.amagi.tv/playlist720-p.m3u8
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://i.imgur.com/MCyL9wX.png"" group-title="Discovery",National Geographic Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://i.postimg.cc/g28Z2QmT/download-8.png"" group-title="Discovery",National Geographic Abu Dhabi
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discovery.png"" group-title="Discovery",Discovery [BENGALI]
 https://sabbirhasan.pythonanywhere.com/dplus/discovery-ben
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discovery.png"" group-title="Discovery",Discovery [HINDI]
@@ -316,6 +314,8 @@ https://sabbirhasan.pythonanywhere.com/dplus/discovery-hin
 https://sabbirhasan.pythonanywhere.com/dplus/animalplanet-hin
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/tlc.png"" group-title="Discovery",TLC [HINDI]
 https://sabbirhasan.pythonanywhere.com/dplus/tlc-hin
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://i.postimg.cc/vm2VwySK/a3bJ6x5.png"" group-title="Discovery",AFV Family
+https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
 
 
 
@@ -324,7 +324,8 @@ https://sabbirhasan.pythonanywhere.com/dplus/tlc-hin
 
 
 Hindi
-
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/NNrhMTT/ATN-Music.jpg" group-title="Music", Atn Music
+https://cdn.appv.jagobd.com:444/live-orgin/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.9xtashan.in/wp-content/uploads/2016/04/logo.png""  group-title="Music",9x Tashan
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XTashan/9XTashan.isml/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/up2mMgD.png""  group-title="Music",MTV YO! HD
@@ -383,9 +384,12 @@ https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
 http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/816/983/png-transparent-logo-brand-trademark-nick-jr-enchanted-forest-text-trademark-logo.png" group-title="Cartun", Nick Jr. Dora TV
 https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8
-
-
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest?cb=20191215110016" group-title="Cartun", Rongeen tv
+http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w816006548.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Cartun", Duronto TV 
+http://89.187.185.89:3232/ban-duronto/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qm3X46H.png" group-title="Cartun", SPACETOON KIDS
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 
 
 
@@ -461,7 +465,14 @@ http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
 http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 #EXTINF:-1 tvg-id="165" group-title="Movi" tvg-logo="https://i.postimg.cc/Bn6c4jSx/download-3.png""  group-title="Movi",CinemaWorld
 http://210.210.155.35:80/dr9445/h/h04/01.m3u8
-
+#EXTINF:-1 tvg-id="165" group-title="Movi" tvg-logo="https://i.postimg.cc/QdqMwJSw/download-16.jpg""  group-title="Movi",Zee Aflam (UAE)
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:-1 tvg-id="165" group-title="Movi" tvg-logo="https://i.postimg.cc/gjRM2JTX/220px-Zee-Alwan-logo.jpg""  group-title="Movi",Zee Alwan (UAE)
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+#EXTINF:-1 tvg-id="165" group-title="Movi" tvg-logo="https://i.postimg.cc/FFnsmvnv/250px-K-Plus-Asia-Logo.jpg""  group-title="Movi",K+ (South Korea)
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+#EXTINF:-1 tvg-id="165" group-title="Movi" tvg-logo="https://i.postimg.cc/FRVNWD1L/KBS-World.png""  group-title="Movi",KBS World (South Korea)
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="483" group-title="Movi" tvg-logo="https://i.postimg.cc/NMbBNQGB/kcv-movies.jpg""  group-title="Movi",KCV Movies
