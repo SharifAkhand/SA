@@ -1,6 +1,10 @@
 # SA-iptv
 IPTV
 EXTM3U
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.dishurdu.com/images/A-Sports-HD-Logo.png"" group-title="Sports",A Sports HD
+http://115.186.148.250:8000/play/a00s
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg"" group-title="Sports",T_sport
+https://v-px.mybtv.net/live/39.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png"" group-title="Sports",ESPN 2 🇨🇱
 http://201.219.223.101:46000/play/a015
 #EXTINF:-1 group-title="Sports" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png"" group-title="Sports",ESPN COLOMBIA 🇨🇴
