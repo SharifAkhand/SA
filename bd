@@ -1,6 +1,8 @@
 # SA-iptv
 IPTV
 EXTM3U
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.bundesliga-international.com/wp-content/uploads/2020/11/Match-TV-logo.jpg"" group-title="Sports",Match TV
+https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/RTK1.svg/revision/latest/scale-to-width-down/187?cb=20210630120052"" group-title="Sports",RTK1
 http://146.59.19.1/5002/mpegts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/2560px-Logo_SportTV.svg.png"" group-title="Sports",Sports tv 
