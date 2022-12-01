@@ -1,6 +1,20 @@
 # SA-iptv
 IPTV
 EXTM3U
+#EXTINF:-1 group-title="Sports" tvg-logo="http://worldiptv.xyz/chlogos/FreeSports.uk.png"" group-title="Sports",Free Sports
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/94918
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg"" group-title="Sports",ANTV
+http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://worldiptv.xyz/chlogos/Eurosport1.uk.png"" group-title="Sports",EuroSport1 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/94908
+#EXTINF:-1 group-title="Sports" tvg-logo="http://boomtivi.xyz/images/logos/GR/eurosport1.png"" group-title="Sports",Eurosport 1
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e961RndFsW58KcNMelMyUCM
+#EXTINF:-1 group-title="Sports" tvg-logo="http://boomtivi.xyz/images/logos/GR/novasp3.png"" group-title="Sports",Nova Sports 3
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8yactgLcAekKc29ct9hkkd
+#EXTINF:-1 group-title="Sports" tvg-logo="http://boomtivi.xyz/images/logos/GR/novasp2.png"" group-title="Sports",Nova Sports 2
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-UHY4EFXaTL62Eh947HkO8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://tv.co-op.tv:25461/images/eacu0galdqo262dr9I5OGngpIpH3q9qY.png"" group-title="Sports",SkySports Football HD
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/35031
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.dishurdu.com/images/A-Sports-HD-Logo.png"" group-title="Sports",A Sports HD
 http://115.186.148.250:8000/play/a00s
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg"" group-title="Sports",T_sport
@@ -472,7 +486,8 @@ http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://images.useetv.com/logo_new-myfamily_small.png""  group-title="Movi",My Family Cinema
 http://210.210.155.35/uq2663/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Family_Channel_Trial-
 #EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png""  group-title="Movi",Zee_Bioskop
-http://210.210.155.35/qwr9ew/s/s32/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Zee_Bioskop
+http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
+#http://210.210.155.35/qwr9ew/s/s32/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Zee_Bioskop
 #EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545""  group-title="Movi",B4U MOVIES
 http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest?cb=20200320100818""  group-title="Movi",B4u KADAK
