@@ -1,6 +1,12 @@
 # SA-iptv
 IPTV
 EXTM3U
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/85DZc7wn/image.jpg"" group-title="Sports",Geo Super
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/16088
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4NhPffYd/download-2.png"" group-title="Sports",Best Cable Sports
+https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png"" group-title="Sports",Ben Sports
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.bundesliga-international.com/wp-content/uploads/2020/11/Match-TV-logo.jpg"" group-title="Sports",Match TV
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/RTK1.svg/revision/latest/scale-to-width-down/187?cb=20210630120052"" group-title="Sports",RTK1
@@ -87,11 +93,16 @@ https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 http://208.86.19.13:81/693.stream/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x91288" group-title="News",News 24
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/playlist.m3u8
-
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" group-title="News",Ekattor Tv
+http://208.86.19.13:81/675.stream/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/dbc-news.jpg?x91288" group-title="News",DBC News
+https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8
 
 
 
 Bangla
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest/scale-to-width-down/300?cb=20210509180125" group-title="Bangla", Zee Bangla HD
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/131691
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/cvWkhfb.png" group-title="Bangla", SA Tv
 http://208.86.19.13:81/613.stream/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/mZcSBBgy/download-9.jpg" group-title="Bangla",Khushboo Bangla
@@ -144,8 +155,6 @@ https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla", Channel 24 HD
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/dbc-news.jpg?x91288" group-title="Bangla",DBC News
-https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangla", Ekusey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #https://ekusheyserver.com/etvlivesn.m3u8
@@ -196,10 +205,14 @@ https://cdn.appv.jagobd.com:444/live-orgin/nantv.stream/chunks.m3u8
 https://cdn.appv.jagobd.com:444/live-orgin/times24tv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://imgpile.com/images/58KJbk.png" group-title="Music", DESHI TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://pbs.twimg.com/profile_images/1586990233983553538/syMkluYC_400x400.jpg" group-title="Music", DESH TV
+http://208.86.19.13:81/661.stream/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://imgpile.com/images/58JCCF.jpg" group-title="Music", NANDAN TV
 http://nandansyst.com/hls/nandan.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://imgpile.com/images/58iPuS.jpg" group-title="Music", I IPTV BD
 http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs72-7auoYvHzLp2dSLozUgQv9Cb00I5o2ElGuRO-LCA&s" group-title="Music", IB Tv Usa
+http://208.86.19.13:81/509.stream/index.m3u8
 
 
 
@@ -258,6 +271,33 @@ https://tv.googledrivelinks.com:443/autoq.php?c=Mastiii
 https://live.hungama.com/linear/dil-se/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/6pd1TJx7/220px-E24-TV-Channel.jpg""  group-title="Music",E24
 http://208.86.19.13:81/719.stream/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/J0L0y4xD/download-13.jpg""  group-title="Music",MTV YO! HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+#EXTINF:-1 tvg-id="585" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png""  group-title="Music",Zing
+https://tv.googledrivelinks.com:443/autoq.php?c=Zi
+#EXTINF:-1 tvg-id="587" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png""  group-title="Music",9XM
+https://tv.googledrivelinks.com:443/autoq.php?c=9XM
+#EXTINF:-1 tvg-id="591" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png""  group-title="Music",E 24
+https://tv.googledrivelinks.com:443/autoq.php?c=E_24
+#EXTINF:-1 tvg-id="183" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png""  group-title="Music",B4U Music
+https://tv.googledrivelinks.com:443/autoq.php?c=B4U_Music
+#EXTINF:-1 tvg-id="592" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png""  group-title="Music",ZOOM
+https://tv.googledrivelinks.com:443/autoq.php?c=Zoom
+#EXTINF:-1 tvg-id="248" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png""  group-title="Music",MTV
+https://tv.googledrivelinks.com:443/autoq.php?c=MTV
+#EXTINF:-1 tvg-id="440" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png""  group-title="Music",9X Jalwa
+https://tv.googledrivelinks.com:443/autoq.php?c=9X_Jalwa
+#EXTINF:-1 tvg-id="773" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Public_Music.png""  group-title="Music",Public Music
+https://tv.googledrivelinks.com:443/autoq.php?c=Public_Music
+#EXTINF:-1 tvg-id="420" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png""  group-title="Music",Jaya Max
+https://tv.googledrivelinks.com:443/autoq.php?c=Jaya_Max
+#EXTINF:-1 tvg-id="741" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bhojpuri.png""  group-title="Music",Sangeet Bhojpuri
+https://tv.googledrivelinks.com:443/autoq.php?c=Sangeet_Bhojpuri
+#EXTINF:-1 tvg-id="420" group-title="Music" tvg-logo="https://i.postimg.cc/NLqTp8f3/image.jpg""  group-title="Music",Steelbird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+
+
+
 
 
 
@@ -348,28 +388,10 @@ https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Actio
 https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Cinemalu
 #EXTINF:-1 tvg-id="415" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png""  group-title="Movi",Zee Anmol Cinema
 https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Anmol_Cinema
+#EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png""  group-title="Movi",Sony Max HD(BD)
+http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Action.png""  group-title="Movi",UTV Action(BD)
+http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
 
-
-
-#EXTINF:-1 tvg-id="585" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png""  group-title="Music",Zing
-https://tv.googledrivelinks.com:443/autoq.php?c=Zi
-#EXTINF:-1 tvg-id="587" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png""  group-title="Music",9XM
-https://tv.googledrivelinks.com:443/autoq.php?c=9XM
-#EXTINF:-1 tvg-id="591" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png""  group-title="Music",E 24
-https://tv.googledrivelinks.com:443/autoq.php?c=E_24
-#EXTINF:-1 tvg-id="183" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png""  group-title="Music",B4U Music
-https://tv.googledrivelinks.com:443/autoq.php?c=B4U_Music
-#EXTINF:-1 tvg-id="592" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png""  group-title="Music",ZOOM
-https://tv.googledrivelinks.com:443/autoq.php?c=Zoom
-#EXTINF:-1 tvg-id="248" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png""  group-title="Music",MTV
-https://tv.googledrivelinks.com:443/autoq.php?c=MTV
-#EXTINF:-1 tvg-id="440" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png""  group-title="Music",9X Jalwa
-https://tv.googledrivelinks.com:443/autoq.php?c=9X_Jalwa
-#EXTINF:-1 tvg-id="773" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Public_Music.png""  group-title="Music",Public Music
-https://tv.googledrivelinks.com:443/autoq.php?c=Public_Music
-#EXTINF:-1 tvg-id="420" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png""  group-title="Music",Jaya Max
-https://tv.googledrivelinks.com:443/autoq.php?c=Jaya_Max
-#EXTINF:-1 tvg-id="741" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bhojpuri.png""  group-title="Music",Sangeet Bhojpuri
-https://tv.googledrivelinks.com:443/autoq.php?c=Sangeet_Bhojpuri
 
 
