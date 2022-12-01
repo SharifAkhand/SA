@@ -79,16 +79,29 @@ http://190.131.228.59:8000/play/a066/index.m3u8
 
 
 
+#EXTINF:-1 group-title="News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="News",Jamuna TV
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/inds.png?x91288" group-title="News",Independent
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/cvWkhfb.png" group-title="News",Somoy tv
+http://208.86.19.13:81/693.stream/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x91288" group-title="News",News 24
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/playlist.m3u8
+
+
 
 
 Bangla
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/cvWkhfb.png" group-title="Bangla", SA Tv
+http://208.86.19.13:81/613.stream/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/mZcSBBgy/download-9.jpg" group-title="Bangla",Khushboo Bangla
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/NfRjZn6W/A0EWDDo.png" group-title="Bangla",Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla", Sony Aath
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6641/index.m3u8
-
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/6qV6wp6z/58KcYG.jpg" group-title="Bangla", MEEM TV USA
+http://208.86.19.13:81/502.stream/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/PrWrJTPW/58Mkc4.png" group-title="Bangla",Amar bangla
 http://stream1.livebox.co.in/kbcreationhls/live.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/wMKwP3H8/uP36aiN.jpg" group-title="Bangla",Colors Bangla Cinema HD
@@ -111,16 +124,12 @@ https://stream.mux.com/e8ustDL8hTiGTkCkE9JLpdJ5uCMcokzn.m3u8?Live-TV™
 https://2-fss-2.themediacdn.com/pl_118/amlst:201982-1318992/playlist.m3u8?Live-TV™
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngFx0fbIvgK8rehQj_oVCIyiVay0diGJwLqU_oXdw=s900-c-k-c0x00ffffff-no-rj" group-title="Islamic",Madni tv Bangla
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangla",Jamuna TV
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangla", Channel I HD
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://pbs.twimg.com/profile_images/845559853540040704/Q1eC2EZ1_400x400.jpg" group-title="Bangla",Jonmobhumi TV
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="Bangla",Rtv
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/inds.png?x91288" group-title="Bangla",Independent
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla", ATN Bangla
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangla", Banglavision HD
@@ -146,8 +155,6 @@ http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangla",iON TV
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iontvuk.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x91288" group-title="Bangla",News 24
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/XcJZKg4.png" group-title="Bangla",Nexus TV
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS-VnY2QqwVuV4rLhFEnc2E3MKzrBBde5MBwYiNTL16g&s" group-title="Bangla",NRB TV
@@ -156,6 +163,8 @@ https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Bangla", CNN Bangla
 http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/KvbmHQz2/PK9Gm5g.png" group-title="Bangla", Duronto TV
+http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Bangla", Deepto TV HD
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deentv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://www.deshebideshe.tv/assets/importent_images/footer-logo.png" group-title="Bangla", Deshebideshe HD
@@ -212,6 +221,18 @@ http://str24.l9574.com/503.stream/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://play-lh.googleusercontent.com/ycYUDpype0qWZmntZa4wP5O-JIHHb2cupFImccyQ68cO3pWIewxq6z5bDPokySwr890" group-title="Bangla", Rang TV
 https://tv.googledrivelinks.com:443/autoq.php?c=Ra
 
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discovery.png"" group-title="Discovery",Discovery [BENGALI]
 https://sabbirhasan.pythonanywhere.com/dplus/discovery-ben
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discovery.png"" group-title="Discovery",Discovery [HINDI]
@@ -235,6 +256,19 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
 https://tv.googledrivelinks.com:443/autoq.php?c=Mastiii
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/j52Mt2wq/image.png""  group-title="Music",Dil Se
 https://live.hungama.com/linear/dil-se/playlist.m3u8?token=soheliptv01826655778
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/6pd1TJx7/220px-E24-TV-Channel.jpg""  group-title="Music",E24
+http://208.86.19.13:81/719.stream/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartun", Nick
 https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
 
@@ -248,10 +282,6 @@ EXTINF:-1 tvg-id="144" group-title="Hindi" tvg-logo="https://upload.wikimedia.or
 https://tv.googledrivelinks.com:443/autoq.php?c=Sony_HD
 #EXTINF:-1 tvg-id="167" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png""  group-title="Hindi",Zee TV HD
 https://tv.googledrivelinks.com:443/autoq.php?c=Zee_TV_HD
-#EXTINF:-1 tvg-id="476" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png""  group-title="Hindi",Sony Max HD
-https://tv.googledrivelinks.com:443/autoq.php?c=Sony_Max_HD
-#EXTINF:-1 tvg-id="165" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png""  group-title="Hindi",Zee Cinema HD
-https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Cinema_HD
 #EXTINF:-1 tvg-id="155" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png""  group-title="Sports", Sony Six HD
 https://tv.googledrivelinks.com:443/autoq.php?c=Six_HD
 #EXTINF:-1 tvg-id="154" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png""  group-title="Hindi",Sony SAB
@@ -260,25 +290,25 @@ https://tv.googledrivelinks.com:443/autoq.php?c=Sony_SAB
 https://tv.googledrivelinks.com:443/autoq.php?c=And_TV_HD
 #EXTINF:-1 tvg-id="279" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png""  group-title="Hindi",Rishtey
 https://tv.googledrivelinks.com:443/autoq.php?c=Rishtey
-#EXTINF:-1 tvg-id="473" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png""  group-title="Hindi",Zee Anmol
+#EXTINF:-1 tvg-id="473" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png""  group-title="Movi",Zee Anmol
 https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Anmol
-#EXTINF:-1 tvg-id="474" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png""  group-title="Hindi",Sony Pal
+#EXTINF:-1 tvg-id="474" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png""  group-title="Movi",Sony Pal
 https://tv.googledrivelinks.com:443/autoq.php?c=Sony_Pal
 #EXTINF:-1 tvg-id="471" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB HD
 https://tv.googledrivelinks.com:443/autoq.php?c=Sony_SAB_HD
-#EXTINF:-1 tvg-id="445" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png""  group-title="Hindi",Zee Marathi
+#EXTINF:-1 tvg-id="445" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png""  group-title="Movi",Zee Marathi
 https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Marathi
 #EXTINF:-1 tvg-id="755" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png""  group-title="Hindi",Colors Marathi HD
 https://e47f-3-111-119-175.in.ngrok.io/YASHRAJ-jio//live.php?c=Colors_Marathi_HD
 #EXTINF:-1 tvg-id="757" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png""  group-title="Hindi",Colors Kannada HD
 https://tv.googledrivelinks.com:443/autoq.php?c=Colors_Kannada_HD
-#EXTINF:-1 tvg-id="689" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada.png""  group-title="Hindi",Zee Kannada
+#EXTINF:-1 tvg-id="689" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada.png""  group-title="Movi",Zee Kannada
 https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Kannada
 #EXTINF:-1 tvg-id="1157" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png""  group-title="Hindi",Comedy Central HD
 https://tv.googledrivelinks.com:443/autoq.php?c=Comedy_Central_HD
-#EXTINF:-1 tvg-id="638" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png""  group-title="Hindi",Zee Telugu
+#EXTINF:-1 tvg-id="638" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png""  group-title="Movi",Zee Telugu
 https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Telugu
-#EXTINF:-1 tvg-id="628" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png""  group-title="Hindi",Zee Tamil
+#EXTINF:-1 tvg-id="628" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png""  group-title="Movi",Zee Tamil
 https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Tamil
 #EXTINF:-1 tvg-id="196" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png""  group-title="Hindi",Colors Gujarati
 https://tv.googledrivelinks.com:443/autoq.php?c=Colors_Gujarati
@@ -286,32 +316,37 @@ https://tv.googledrivelinks.com:443/autoq.php?c=Colors_Gujarati
 https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Bangla
 #EXTINF:-1 tvg-id="1158" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png""  group-title="Hindi",Colors Infinity HD
 https://tv.googledrivelinks.com:443/autoq.php?c=Colors_Infinity_HD
-#EXTINF:-1 tvg-id="414" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png""  group-title="Hindi",Zee Yuva
+#EXTINF:-1 tvg-id="414" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png""  group-title="Movi",Zee Yuva
 https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Yuva
-#EXTINF:-1 tvg-id="532" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png""  group-title="Hindi",Dabangg
+#EXTINF:-1 tvg-id="532" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png""  group-title="Movi",Dabangg
 https://tv.googledrivelinks.com:443/autoq.php?c=Daba
+#EXTINF:-1 group-title="Movi" tvg-logo="https://i.postimg.cc/NGHHZ32V/wzQh674.png""  group-title="Movi",Tamil Vision
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-1 tvg-id="476" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png""  group-title="Movi",Sony Max HD
+https://tv.googledrivelinks.com:443/autoq.php?c=Sony_Max_HD
+#EXTINF:-1 tvg-id="165" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png""  group-title="Movi",Zee Cinema HD
+https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Cinema_HD
 
 
-
-#EXTINF:-1 tvg-id="483" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png""  group-title="Hindi",Sony MAX2
+#EXTINF:-1 tvg-id="483" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png""  group-title="Movi",Sony MAX2
 https://tv.googledrivelinks.com:443/autoq.php?c=Sony_MAX2
-#EXTINF:-1 tvg-id="185" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png""  group-title="Hindi",And Pictures HD
+#EXTINF:-1 tvg-id="185" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png""  group-title="Movi",And Pictures HD
 https://tv.googledrivelinks.com:443/autoq.php?c=And_Pictures_HD
-#EXTINF:-1 tvg-id="484" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png""  group-title="Hindi",Zee Cinema
+#EXTINF:-1 tvg-id="484" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png""  group-title="Movi",Zee Cinema
 https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Cinema
-#EXTINF:-1 tvg-id="182" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png""  group-title="Hindi",B4U Movies
+#EXTINF:-1 tvg-id="182" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png""  group-title="Movi",B4U Movies
 https://tv.googledrivelinks.com:443/autoq.php?c=B4U_Movies
-#EXTINF:-1 tvg-id="487" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png""  group-title="Hindi",Zee Bollywood
+#EXTINF:-1 tvg-id="487" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png""  group-title="Movi",Zee Bollywood
 https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Classic
-#EXTINF:-1 tvg-id="486" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png""  group-title="Hindi",Bhojpuri Cinema
+#EXTINF:-1 tvg-id="486" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png""  group-title="Movi",Bhojpuri Cinema
 https://tv.googledrivelinks.com:443/autoq.php?c=Bhojpuri_Cinema
 #EXTINF:-1 tvg-id="485" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png""  group-title="Bangla",Enterr 10
 https://tv.googledrivelinks.com:443/autoq.php?c=Enterr_10
-#EXTINF:-1 tvg-id="488" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png""  group-title="Hindi",Zee Action
+#EXTINF:-1 tvg-id="488" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png""  group-title="Movi",Zee Action
 https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Actio
-#EXTINF:-1 tvg-id="413" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png""  group-title="Hindi",Zee Cinemalu
+#EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png""  group-title="Movi",Zee Cinemalu
 https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Cinemalu
-#EXTINF:-1 tvg-id="415" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png""  group-title="Hindi",Zee Anmol Cinema
+#EXTINF:-1 tvg-id="415" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png""  group-title="Movi",Zee Anmol Cinema
 https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Anmol_Cinema
 
 
