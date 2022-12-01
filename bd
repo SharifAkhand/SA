@@ -300,9 +300,12 @@ https://tv.googledrivelinks.com:443/autoq.php?c=Ra
 
 
 
-
-
-
+#EXTINF:-1 group-title="Fashion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png"" group-title="Fashion",FashionTV
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://149772863.v2.pressablecdn.com/wp-content/uploads/2017/02/logo-no-background2.jpg.png"" group-title="Discovery",Wild Earth
+https://wildearth-roku.amagi.tv/master.m3u8
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://www.a1blog.net/wp-content/uploads/2020/02/A1-Xplore-TV-Prod-App-Icon-iOS_ICv222.png"" group-title="Discovery",XPLORE
+https://xplore-roku.amagi.tv/playlist720-p.m3u8
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://i.imgur.com/MCyL9wX.png"" group-title="Discovery",National Geographic Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discovery.png"" group-title="Discovery",Discovery [BENGALI]
@@ -503,7 +506,7 @@ http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest?cb=20200320100818""  group-title="Movi",B4u KADAK
 http://103.199.160.85/Content/moviehouse/Live/Channel%28MovieHouse%29/index.m3u8
 #http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-
-
+#EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png""  group-title="Movi",MON TAMIL TV
+http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
 
 
