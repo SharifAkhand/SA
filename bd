@@ -1,6 +1,8 @@
 # SA-iptv
 IPTV
 EXTM3U
+#EXTINF:-1 group-title="Sports" tvg-logo="https://digitalhub.fifa.com/m/3821fe54d69cdf26/original/j5imrrf3rwgbmcgo2nny-jpg.jpg"" group-title="Sports",World Cup1 2022
+https://ge1.livechymde.xyz/uk_beinsportsenglish1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images2.minutemediacdn.com/image/upload/c_fill,w_912,h_516,f_auto,q_auto,g_auto/shape/cover/sport/fbl-wc-2022-qat-5d6ebdfb4cd5800da8000001.jpg"" group-title="Sports",World Cup 2022
 http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://worldiptv.xyz/chlogos/TelekomSport3.ro.png"" group-title="Sports",TelekomSport 3 HD
@@ -157,6 +159,8 @@ http://tv.maguraplex.net:8000/live/gazitvhd1/index.m3u8
 https://cdn.appv.jagobd.com:444/live-orgin/nrb-eu.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/D1K9xTh/Channel9.jpg" group-title="Bangla",CHANNEL 9
 http://208.86.19.13:81/676.stream/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://www.atnbangla.tv/wp-content/uploads/2015/09/atn-bangla-logo-last.png" group-title="Bangla",ATN Bangla
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8?nimblesessionid=908970347&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDQ6MjM6MDggUE0maGFzaF92YWx1ZT10Z0x6RjRUZEd3Ti9kczlCbnRmSnZBPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://atnbanglauk.tv/wp-content/uploads/2015/04/sized1.png" group-title="Bangla",ATN Bangla UK
 http://87.212.248.44:60230/play/a05g/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://cdn6.aptoide.com/imgs/1/0/3/103804d723a156bca1b93c227781161b_icon.png" group-title="Bangla", BanglachannelNY
