@@ -519,8 +519,12 @@ http://210.210.155.35/uq2663/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1
 http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png""  group-title="Movi",HBO
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
-
+#EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png""  group-title="Movi",Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8
+#EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://api.b4uapac.com/images/1659705560New%20B4U%20Aflam.png""  group-title="Movi",b4uaflam
+http://livecdnh3.tvanywhere.ae/hls/b4uaflam/index.m3u8
+#EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://pbs.twimg.com/profile_images/1228478265/tvilogo_400x400.jpg""  group-title="Movi",tamilvision
+http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
 #http://210.210.155.35/qwr9ew/s/s32/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Zee_Bioskop
 #EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545""  group-title="Movi",B4U MOVIES
 http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
