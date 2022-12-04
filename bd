@@ -1,6 +1,8 @@
 # SA-iptv
 IPTV
 EXTM3U
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images2.minutemediacdn.com/image/upload/c_fill,w_912,h_516,f_auto,q_auto,g_auto/shape/cover/sport/fbl-wc-2022-qat-5d6ebdfb4cd5800da8000001.jpg"" group-title="Sports",World Cup 2022
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://worldiptv.xyz/chlogos/TelekomSport3.ro.png"" group-title="Sports",TelekomSport 3 HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/71052
 #EXTINF:-1 group-title="Sports" tvg-logo="http://worldiptv.xyz/chlogos/TelekomSport2.ro.png"" group-title="Sports",TelekomSport 2 HD
@@ -131,11 +133,13 @@ https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/in
 
 
 #EXTINF:-1 group-title="News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="News",Jamuna TV
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8?nimblesessionid=908878404&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDM6MTY6NDMgUE0maGFzaF92YWx1ZT1KVldCYzcxcUxqbnIwU1dtS29sd01BPT0mdmFsaWRtaW51dGVzPTYw
+#https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/inds.png?x91288" group-title="News",Independent
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/cvWkhfb.png" group-title="News",Somoy tv
-http://208.86.19.13:81/693.stream/index.m3u8
+https://somoy.jaagobd.com:444/somoy/somoyt000011226615544544.stream/chunks.m3u8?nimblesessionid=908869994
+#http://208.86.19.13:81/693.stream/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x91288" group-title="News",News 24
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" group-title="News",Ekattor Tv
@@ -333,7 +337,8 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XTashan/9XTashan.isml/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/up2mMgD.png""  group-title="Music",MTV YO! HD
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/g0C32DBt/DJhTTmR.png""  group-title="Music",Music India
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
+https://pull-3188.5centscdn.com/vizjsj1apjkea3/SMIL:Music_India.smil/chunklist_w449834619_b1044100_sleng.m3u8
+#https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Mastiii-TV_logo.jpg""  group-title="Music",Music Mastii
 https://tv.googledrivelinks.com:443/autoq.php?c=Mastiii
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/j52Mt2wq/image.png""  group-title="Music",Dil Se
