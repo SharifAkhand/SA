@@ -352,6 +352,8 @@ https://tv.googledrivelinks.com:443/autoq.php?c=B4U_Music
 https://tv.googledrivelinks.com:443/autoq.php?c=Zoom
 #EXTINF:-1 tvg-id="248" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png""  group-title="Music",MTV
 https://tv.googledrivelinks.com:443/autoq.php?c=MTV
+#EXTINF:-1 tvg-id="248" group-title="Music" tvg-logo="https://www.nicepng.com/png/detail/227-2276139_desi-channel-logo-desi-channel.png""  group-title="Music",Deshi Channel
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="592" group-title="Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Bindass.png/revision/latest?cb=20190720101806""  group-title="Music",Bindass
 https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="248" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png""  group-title="Music",8X music
