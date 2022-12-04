@@ -1,6 +1,8 @@
 # SA-iptv
 IPTV
 EXTM3U
+#EXTINF:-1 group-title="Sports" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png"" group-title="Sports",T-Sports HD
+https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://digitalhub.fifa.com/m/3821fe54d69cdf26/original/j5imrrf3rwgbmcgo2nny-jpg.jpg"" group-title="Sports",World Cup1 2022
 https://ge1.livechymde.xyz/uk_beinsportsenglish1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images2.minutemediacdn.com/image/upload/c_fill,w_912,h_516,f_auto,q_auto,g_auto/shape/cover/sport/fbl-wc-2022-qat-5d6ebdfb4cd5800da8000001.jpg"" group-title="Sports",World Cup 2022
