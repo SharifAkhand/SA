@@ -155,6 +155,8 @@ http://208.86.19.13:81/663.stream/index.m3u8
 
 
 Bangla
+#EXTINF:-1 group-title="Sports" tvg-logo="https://d1nxzqpcg2bym0.cloudfront.net/google_play/com.rtstsportsbd.rtsaiful/37e74dce-dbf6-11eb-8c00-734831dc9cc4/640"" group-title="Sports",T-Sports HD
+http://208.86.19.13:81/9055.stream/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",Gazi Tv
 http://tv.maguraplex.net:8000/live/gazitvhd1/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://sarabangla.net/wp-content/uploads/2022/02/Nagorik-TV-Logo.jpg" group-title="Bangla",Nagorik Tv
