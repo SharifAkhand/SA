@@ -261,10 +261,10 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/131691
 http://208.86.19.13:81/613.stream/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/mZcSBBgy/download-9.jpg" group-title="Bangla",Khushboo Bangla
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/NfRjZn6W/A0EWDDo.png" group-title="Bangla",Sony Aath
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla", Sony Aath
-http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6641/index.m3u8
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Sony_aath&q=250&e=Ishan.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png" group-title="Bangla", Aakash Aath
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Aakaash_bangla&q=250&e=Ishan.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/6qV6wp6z/58KcYG.jpg" group-title="Bangla", MEEM TV USA
 http://208.86.19.13:81/502.stream/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/PrWrJTPW/58Mkc4.png" group-title="Bangla",Amar bangla
@@ -485,8 +485,8 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwOwzMUT7rfAbfa46mMzqppbol9oxaQCUYBG1EuQvPJ-pbQOhSSQ42zysSUAfDTzWyuH8&usqp=CAU" group-title="Cartun", Cartoon Network HD
+http://190.131.228.59:8000/play/a0je/index.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Cartun", Pogo Hindi
 https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Pogo_Hindi&q=250&e=Ishan.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartun", Nick
@@ -606,8 +606,6 @@ https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Colors_Cine
 http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="483" group-title="Movi" tvg-logo="https://i.ibb.co/hXjTT6q/Booglebolly.jpg""  group-title="Movi",Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:-1 tvg-id="483" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png""  group-title="Movi",Sony MAX2
-https://tv.googledrivelinks.com:443/autoq.php?c=Sony_MAX2
 #EXTINF:-1 tvg-id="185" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png""  group-title="Movi",And Pictures HD
 https://tv.googledrivelinks.com:443/autoq.php?c=And_Pictures_HD
 #EXTINF:-1 tvg-id="484" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png""  group-title="Movi",Zee Cinema
