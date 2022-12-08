@@ -1,6 +1,10 @@
 # SA-iptv
 IPTV
 EXTM3U
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg"" group-title="Sports",Toffee PAID 1 (Auto)
+https://sabbirhasan.pythonanywhere.com/worldcup/auto-paid
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg"" group-title="Sports",Toffee PAID 2 (Auto)
+https://sabbirhasan.pythonanywhere.com/worldcup/auto-server2-paid
 #EXTINF:-1 group-title="Sports" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png"" group-title="Sports",T-Sports HD
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://digitalhub.fifa.com/m/3821fe54d69cdf26/original/j5imrrf3rwgbmcgo2nny-jpg.jpg"" group-title="Sports",World Cup1 2022
@@ -324,6 +328,8 @@ http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 https://sabbirhasan.pythonanywhere.com/dplus/discovery-ben
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discovery.png"" group-title="Discovery",Discovery [HINDI]
 https://sabbirhasan.pythonanywhere.com/dplus/discovery-hin
+#EXTINF:-1 group-title="Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png"" group-title="Discovery",Discovery HD World
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Discovery_HD_World&q=250&e=Ishan.m3u8
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/animalplanet.png"" group-title="Discovery",Animal Planet [HINDI]
 https://sabbirhasan.pythonanywhere.com/dplus/animalplanet-hin
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/tlc.png"" group-title="Discovery",TLC [HINDI]
@@ -397,10 +403,12 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Cartun", Pogo Hindi
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Pogo_Hindi&q=250&e=Ishan.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartun", Nick
 https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Cartun", Nick Hindi
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Nick_Hindi&q=250&e=Ishan.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/POGO-logo.svg/2560px-POGO-logo.svg.png" group-title="Cartun", POGO
 http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/816/983/png-transparent-logo-brand-trademark-nick-jr-enchanted-forest-text-trademark-logo.png" group-title="Cartun", Nick Jr. Dora TV
@@ -437,43 +445,53 @@ https://tv.googledrivelinks.com:443/autoq.php?c=Six_HD
 #EXTINF:-1 tvg-id="154" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png""  group-title="Hindi",Sony SAB
 https://tv.googledrivelinks.com:443/autoq.php?c=Sony_SAB
 #EXTINF:-1 tvg-id="472" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png""  group-title="Hindi",And TV HD
-https://tv.googledrivelinks.com:443/autoq.php?c=And_TV_HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=And_TV_HD&q=250&e=Ishan.m3u8
+#https://tv.googledrivelinks.com:443/autoq.php?c=And_TV_HD
 #EXTINF:-1 tvg-id="279" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png""  group-title="Hindi",Rishtey
-https://tv.googledrivelinks.com:443/autoq.php?c=Rishtey
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Rishtey&q=250&e=Ishan.m3u8
+#https://tv.googledrivelinks.com:443/autoq.php?c=Rishtey
 #EXTINF:-1 tvg-id="473" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png""  group-title="Movi",Zee Anmol
-https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Anmol
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Zee_Anmol&q=250&e=Ishan.m3u8
+#https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Anmol
 #EXTINF:-1 tvg-id="474" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png""  group-title="Movi",Sony Pal
-https://tv.googledrivelinks.com:443/autoq.php?c=Sony_Pal
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Sony_Pal&q=250&e=Ishan.m3u8
+#https://tv.googledrivelinks.com:443/autoq.php?c=Sony_Pal
 #EXTINF:-1 tvg-id="471" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB HD
-https://tv.googledrivelinks.com:443/autoq.php?c=Sony_SAB_HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Sony_SAB_HD&q=250&e=Ishan.m3u8
+#https://tv.googledrivelinks.com:443/autoq.php?c=Sony_SAB_HD
 #EXTINF:-1 tvg-id="445" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png""  group-title="Movi",Zee Marathi
-https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Marathi
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Zee_Marathi&q=250&e=Ishan.m3u8
+#https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Marathi
 #EXTINF:-1 tvg-id="755" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png""  group-title="Hindi",Colors Marathi HD
-https://e47f-3-111-119-175.in.ngrok.io/YASHRAJ-jio//live.php?c=Colors_Marathi_HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Colors_Marathi_HD&q=250&e=Ishan.m3u8
 #EXTINF:-1 tvg-id="757" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png""  group-title="Hindi",Colors Kannada HD
-https://tv.googledrivelinks.com:443/autoq.php?c=Colors_Kannada_HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Colors_Kannada_HD&q=250&e=Ishan.m3u8
 #EXTINF:-1 tvg-id="689" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada.png""  group-title="Movi",Zee Kannada
-https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Kannada
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Zee_Kannada&q=250&e=Ishan.m3u8
 #EXTINF:-1 tvg-id="1157" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png""  group-title="Hindi",Comedy Central HD
-https://tv.googledrivelinks.com:443/autoq.php?c=Comedy_Central_HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Comedy_Central_HD&q=250&e=Ishan.m3u8
 #EXTINF:-1 tvg-id="1157" group-title="Hindi" tvg-logo="https://i.postimg.cc/0Nm4xLcF/mvtv.jpg""  group-title="Hindi",Magnavision TV
 https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
 #EXTINF:-1 tvg-id="638" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png""  group-title="Movi",Zee Telugu
-https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Telugu
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Zee_Telugu&q=250&e=Ishan.m3u8
 #EXTINF:-1 tvg-id="628" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png""  group-title="Movi",Zee Tamil
-https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Tamil
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Zee_Tamil&q=250&e=Ishan.m3u8
 #EXTINF:-1 tvg-id="196" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png""  group-title="Hindi",Colors Gujarati
 https://tv.googledrivelinks.com:443/autoq.php?c=Colors_Gujarati
 #EXTINF:-1 tvg-id="625" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png""  group-title="Bangla",Zee Bangla
-https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Bangla
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Zee_Bangla&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="625" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png""  group-title="Bangla",Colors Bengali HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Colors_Bengali_HD&q=250&e=Ishan.m3u8
 #EXTINF:-1 tvg-id="1158" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png""  group-title="Hindi",Colors Infinity HD
-https://tv.googledrivelinks.com:443/autoq.php?c=Colors_Infinity_HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Colors_Infinity_HD&q=250&e=Ishan.m3u8
 #EXTINF:-1 tvg-id="414" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png""  group-title="Movi",Zee Yuva
-https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Yuva
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Zee_Yuva&q=250&e=Ishan.m3u8
 #EXTINF:-1 tvg-id="532" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png""  group-title="Movi",Dabangg
-https://tv.googledrivelinks.com:443/autoq.php?c=Daba
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Daba&q=250&e=Ishan.m3u8
 #EXTINF:-1 group-title="Movi" tvg-logo="https://i.postimg.cc/NGHHZ32V/wzQh674.png""  group-title="Movi",Tamil Vision
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-1 group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png""  group-title="Movi",Colors Tamil HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Colors_Tamil_HD&q=250&e=Ishan.m3u8
 #EXTINF:-1 tvg-id="476" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png""  group-title="Movi",Sony Max HD
 https://tv.googledrivelinks.com:443/autoq.php?c=Sony_Max_HD
 #EXTINF:-1 tvg-id="165" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png""  group-title="Movi",Zee Cinema HD
@@ -496,6 +514,10 @@ http://210.210.155.35/uq2663/h/h08/index.m3u8
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="483" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png""  group-title="Movi",And Pictures HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=And_Pictures_HD&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="483" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png""  group-title="Movi",Colors Cineplex
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Colors_Cineplex&q=250&e=Ishan.m3u8
 #EXTINF:-1 tvg-id="483" group-title="Movi" tvg-logo="https://i.postimg.cc/NMbBNQGB/kcv-movies.jpg""  group-title="Movi",KCV Movies
 http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="483" group-title="Movi" tvg-logo="https://i.ibb.co/hXjTT6q/Booglebolly.jpg""  group-title="Movi",Boogle Bollywood
@@ -507,27 +529,30 @@ https://tv.googledrivelinks.com:443/autoq.php?c=And_Pictures_HD
 #EXTINF:-1 tvg-id="484" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png""  group-title="Movi",Zee Cinema
 https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Cinema
 #EXTINF:-1 tvg-id="182" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png""  group-title="Movi",B4U Movies
-https://tv.googledrivelinks.com:443/autoq.php?c=B4U_Movies
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=B4U_Movies&q=250&e=Ishan.m3u8
 #EXTINF:-1 tvg-id="487" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png""  group-title="Movi",Zee Bollywood
-https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Classic
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Zee_Classic&q=250&e=Ishan.m3u8
 #EXTINF:-1 tvg-id="486" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png""  group-title="Movi",Bhojpuri Cinema
 https://tv.googledrivelinks.com:443/autoq.php?c=Bhojpuri_Cinema
 #EXTINF:-1 tvg-id="485" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png""  group-title="Bangla",Enterr 10
-https://tv.googledrivelinks.com:443/autoq.php?c=Enterr_10
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Enterr_10&q=250&e=Ishan.m3u8
 #EXTINF:-1 tvg-id="488" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png""  group-title="Movi",Zee Action
-https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Actio
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Zee_Actio&q=250&e=Ishan.m3u8
 #EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png""  group-title="Movi",Zee Cinemalu
-https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Cinemalu
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Zee_Cinemalu&q=250&e=Ishan.m3u8
 #EXTINF:-1 tvg-id="415" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png""  group-title="Movi",Zee Anmol Cinema
-https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Anmol_Cinema
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Zee_Anmol_Cinema&q=250&e=Ishan.m3u8
 #EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png""  group-title="Movi",Sony Max HD(BD)
 http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Action.png""  group-title="Movi",UTV Action(BD)
 http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://i.postimg.cc/TPHShbww/TZceYby.png""  group-title="Movi",One TV
 http://137.59.86.218:1935/live/onetv/chunklist_w439742991.m3u8
+#EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png""  group-title="Movi",Sony Max
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=SET_MAX&q=250&e=Ishan.m3u8
 #EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg""  group-title="Movi",Sony Max-2
-http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8?token=test
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Sony_MAX2&q=250&e=Ishan.m3u8
+#http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://images.useetv.com/logo_new-myfamily_small.png""  group-title="Movi",My Family Cinema
 http://210.210.155.35/uq2663/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Family_Channel_Trial-
 #EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png""  group-title="Movi",Zee_Bioskop
@@ -552,8 +577,8 @@ http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png""  group-title="Movi",Star Gold 2
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
-
-
+#EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png""  group-title="Movi",Zee Cinema
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Zee_Cinema&q=250&e=Ishan.m3u8
 #EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg""  group-title="Movi",Zee Cinema HD Test
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
 
