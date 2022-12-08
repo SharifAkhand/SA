@@ -1,6 +1,88 @@
 # SA-iptv
 IPTV
 EXTM3U
+
+Jio:
+
+#EXTINF:-1 tvg-id="875" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png",Eurosport HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Dsports_HD&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="1156" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football.png",Jio Football HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Jio_Football&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="1160" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_1_HD.png",Jio Cricket 1 HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Jio_Cricket_1_HD&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="1165" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_1.png",Jio Football 1 HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Jio_Football_1&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="1167" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_2.png",Jio Football 2 HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Jio_Football_2&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="1168" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_3.png",Jio Football 3 HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Jio_Football_3&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="1169" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_4.png",Jio Football 4 HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Jio_Football_4&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="514" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png",Ten 1
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Ten_1&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="523" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png",Ten 2
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Ten_2&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="524" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png",Ten 3
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Ten_3&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="525" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png",Sony Six SD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Sony_Six_SD&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="740" group-title="Music" tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bangla.png",Sangeet Bangla
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Sangeet_Bangla&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="698" group-title="Bangla" tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png",Aakash Aath
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Aakaash_bangla&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="417" group-title="Movi" tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png",J Movies
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=J_Movies&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="685" group-title="Movi" tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Zee_Bangla_Cinema&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="252" group-title="Movi" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png",ETV Cinema
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=ETV_Cinema&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="738" group-title="Movi" tvg-language="Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Fakt_Marathi.png",Fakt Marathi
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Fakt_Marathi&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="946" group-title="Movi" tvg-language="Punjabi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png",Pitaara
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Pitaara&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="809" group-title="Movi" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png",Maha Movies
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Maha_Movies&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="683" group-title="Movi" tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png",Raj Digital Plus
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Raj_Digital_Plus&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="1190" group-title="Movi" tvg-language="Punjabi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png",PTC Punjabi Gold
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=PTC_Punjabi_Gold&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="883" group-title="Movi" tvg-language="Bhojpuri" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Osar_Movies.png",Oscar Movies
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Osar_Movies&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="845" group-title="Music" tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MK_Music.png",MK Music
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=MK_Music&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="250" group-title="Music" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png",Music India
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Music_India&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="803" group-title="Music" tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tunes_6.png",Tunes 6
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Tunes_6&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="743" group-title="Music" tvg-language="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Kannada.png",Raj Music Kannada
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Raj_Music_Kannada&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="639" group-title="Music" tvg-language="Assamese" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ramdhenu.png",Ramdhenu
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Ramdhenu&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="748" group-title="Music" tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png",Raj Musix
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Raj_Musix&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="1172" group-title="Music" tvg-language="Punjabi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Chak_De.png",PTC Chak De
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=PTC_Chak_De&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="2016" group-title="Movi" tvg-language="Odia" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Cinema.png",Ekamra Cinema
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Ekamra_Cinema&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="438" group-title="Sports" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Hindi.png",Jio Cricket Hindi HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Jio_Cricket_Hindi&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="431" group-title="Sports" tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Tamil.png",Jio Cricket Tamil HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Jio_Cricket_Tamil&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="432" group-title="Sports" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Telugu.png",Jio Cricket Telugu HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Jio_Cricket_Telugu&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="433" group-title="Sports" tvg-language="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Kannada.png",Jio Cricket Kannada HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Jio_Cricket_Kannada
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports.png"" group-title="Sports",Jio Sports HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Jio_Sports&q=250&e=Ishan.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png"" group-title="Sports",Ten 3 HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Ten3_HD&q=250&e=Ishan.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg"" group-title="Sports",Toffee PAID 1 (Auto)
 https://sabbirhasan.pythonanywhere.com/worldcup/auto-paid
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg"" group-title="Sports",Toffee PAID 2 (Auto)
@@ -344,6 +426,8 @@ https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
 
 
 Hindi
+
+
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/NNrhMTT/ATN-Music.jpg" group-title="Music", Atn Music
 https://cdn.appv.jagobd.com:444/live-orgin/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.9xtashan.in/wp-content/uploads/2016/04/logo.png""  group-title="Music",9x Tashan
@@ -362,17 +446,17 @@ http://208.86.19.13:81/719.stream/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/J0L0y4xD/download-13.jpg""  group-title="Music",MTV YO! HD
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:-1 tvg-id="585" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png""  group-title="Music",Zing
-https://tv.googledrivelinks.com:443/autoq.php?c=Zi
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Zi&q=250&e=Ishan.m3u8
 #EXTINF:-1 tvg-id="587" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png""  group-title="Music",9XM
-https://tv.googledrivelinks.com:443/autoq.php?c=9XM
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=9XM&q=250&e=Ishan.m3u8
 #EXTINF:-1 tvg-id="591" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png""  group-title="Music",E 24
-https://tv.googledrivelinks.com:443/autoq.php?c=E_24
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=E_24&q=250&e=Ishan.m3u8
 #EXTINF:-1 tvg-id="183" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png""  group-title="Music",B4U Music
-https://tv.googledrivelinks.com:443/autoq.php?c=B4U_Music
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=B4U_Music&q=250&e=Ishan.m3u8
 #EXTINF:-1 tvg-id="592" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png""  group-title="Music",ZOOM
-https://tv.googledrivelinks.com:443/autoq.php?c=Zoom
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Zoom&q=250&e=Ishan.m3u8
 #EXTINF:-1 tvg-id="248" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png""  group-title="Music",MTV
-https://tv.googledrivelinks.com:443/autoq.php?c=MTV
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=MTV&q=250&e=Ishan.m3u8
 #EXTINF:-1 tvg-id="248" group-title="Music" tvg-logo="https://www.nicepng.com/png/detail/227-2276139_desi-channel-logo-desi-channel.png""  group-title="Music",Deshi Channel
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="592" group-title="Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Bindass.png/revision/latest?cb=20190720101806""  group-title="Music",Bindass
@@ -382,13 +466,13 @@ http://144.217.70.181:9587/hin2/8XM/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="248" group-title="Music" tvg-logo="https://bestmediainfo.com/uploads/2016/09/mtv-beats-top.jpg""  group-title="Music",MTV BEATES HD
 http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="440" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png""  group-title="Music",9X Jalwa
-https://tv.googledrivelinks.com:443/autoq.php?c=9X_Jalwa
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=9X_Jalwa&q=250&e=Ishan.m3u8
 #EXTINF:-1 tvg-id="773" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Public_Music.png""  group-title="Music",Public Music
-https://tv.googledrivelinks.com:443/autoq.php?c=Public_Music
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Public_Music&q=250&e=Ishan.m3u8
 #EXTINF:-1 tvg-id="420" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png""  group-title="Music",Jaya Max
-https://tv.googledrivelinks.com:443/autoq.php?c=Jaya_Max
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Jaya_Max&q=250&e=Ishan.m3u8
 #EXTINF:-1 tvg-id="741" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bhojpuri.png""  group-title="Music",Sangeet Bhojpuri
-https://tv.googledrivelinks.com:443/autoq.php?c=Sangeet_Bhojpuri
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Sangeet_Bhojpuri&q=250&e=Ishan.m3u8
 #EXTINF:-1 tvg-id="420" group-title="Music" tvg-logo="https://i.postimg.cc/NLqTp8f3/image.jpg""  group-title="Music",Steelbird Music
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="420" group-title="Music" tvg-logo="https://i.ibb.co/F4dKRnM/mtvwma.jpg""  group-title="Music",MTV WMA HD
