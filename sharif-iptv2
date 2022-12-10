@@ -1,884 +1,669 @@
-#EXTM3U
-                                                    
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla", ATN Bangla
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8
-#https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
+# SA-iptv
+IPTV
+EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WpMA9kC.png" group-title="Bangla",Anando TV
-#http://tv.alphamediazone.com:8089/thunderbd/16/index.m3u8
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
+Jio:
 
-#EXTINF:-1 tvg-logo="https://extreme.com.bd/Uploads/Photos/amarbangla.tv-Kazi-Mohammad-Jahangir-Alam.2714..png" group-title="Bangla", Amar bangla
+#EXTINF:-1 tvg-id="875" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png",Eurosport HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Dsports_HD&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="1156" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football.png",Jio Football HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Jio_Football&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="1160" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_1_HD.png",Jio Cricket 1 HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Jio_Cricket_1_HD&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="1165" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_1.png",Jio Football 1 HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Jio_Football_1&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="1167" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_2.png",Jio Football 2 HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Jio_Football_2&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="1168" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_3.png",Jio Football 3 HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Jio_Football_3&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="1169" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_4.png",Jio Football 4 HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Jio_Football_4&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="514" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png",Ten 1
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Ten_1&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="523" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png",Ten 2
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Ten_2&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="524" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png",Ten 3
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Ten_3&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="525" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png",Sony Six SD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Sony_Six_SD&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="740" group-title="Music" tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bangla.png",Sangeet Bangla
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Sangeet_Bangla&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="698" group-title="Bangla" tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png",Aakash Aath
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Aakaash_bangla&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="417" group-title="Movi" tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png",J Movies
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=J_Movies&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="685" group-title="Movi" tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Zee_Bangla_Cinema&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="252" group-title="Movi" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png",ETV Cinema
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=ETV_Cinema&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="738" group-title="Movi" tvg-language="Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Fakt_Marathi.png",Fakt Marathi
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Fakt_Marathi&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="946" group-title="Movi" tvg-language="Punjabi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png",Pitaara
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Pitaara&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="809" group-title="Movi" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png",Maha Movies
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Maha_Movies&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="683" group-title="Movi" tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png",Raj Digital Plus
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Raj_Digital_Plus&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="1190" group-title="Movi" tvg-language="Punjabi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png",PTC Punjabi Gold
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=PTC_Punjabi_Gold&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="883" group-title="Movi" tvg-language="Bhojpuri" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Osar_Movies.png",Oscar Movies
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Osar_Movies&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="845" group-title="Music" tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MK_Music.png",MK Music
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=MK_Music&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="250" group-title="Music" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png",Music India
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Music_India&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="803" group-title="Music" tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tunes_6.png",Tunes 6
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Tunes_6&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="743" group-title="Music" tvg-language="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Kannada.png",Raj Music Kannada
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Raj_Music_Kannada&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="639" group-title="Music" tvg-language="Assamese" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ramdhenu.png",Ramdhenu
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Ramdhenu&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="748" group-title="Music" tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png",Raj Musix
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Raj_Musix&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="1172" group-title="Music" tvg-language="Punjabi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Chak_De.png",PTC Chak De
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=PTC_Chak_De&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="2016" group-title="Movi" tvg-language="Odia" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Cinema.png",Ekamra Cinema
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Ekamra_Cinema&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="438" group-title="Sports" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Hindi.png",Jio Cricket Hindi HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Jio_Cricket_Hindi&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="431" group-title="Sports" tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Tamil.png",Jio Cricket Tamil HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Jio_Cricket_Tamil&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="432" group-title="Sports" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Telugu.png",Jio Cricket Telugu HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Jio_Cricket_Telugu&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="433" group-title="Sports" tvg-language="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Kannada.png",Jio Cricket Kannada HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Jio_Cricket_Kannada
+#EXTINF:-1 tvg-id="728" group-title="Hindi" tvg-language="Urdu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Salaam.png",Zee Salaam
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Zee_Salaam&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="730" group-title="Hindi" tvg-language="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kasturi.png",Kasturi
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Kasturi&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="731" group-title="Movi" tvg-language="Malayalam" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_WE_TV.png",Kairali WE TV
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Kairali_WE_TV&q=250&e=Ishan.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports.png"" group-title="Sports",Jio Sports HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Jio_Sports&q=250&e=Ishan.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png"" group-title="Sports",Ten 3 HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Ten3_HD&q=250&e=Ishan.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg"" group-title="Sports",Toffee PAID 1 (Auto)
+https://sabbirhasan.pythonanywhere.com/worldcup/auto-paid
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg"" group-title="Sports",Toffee PAID 2 (Auto)
+https://sabbirhasan.pythonanywhere.com/worldcup/auto-server2-paid
+#EXTINF:-1 group-title="Sports" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png"" group-title="Sports",T-Sports HD
+https://live.tsports.com/live/tsports_live_720/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://digitalhub.fifa.com/m/3821fe54d69cdf26/original/j5imrrf3rwgbmcgo2nny-jpg.jpg"" group-title="Sports",World Cup1 2022
+https://ge1.livechymde.xyz/uk_beinsportsenglish1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images2.minutemediacdn.com/image/upload/c_fill,w_912,h_516,f_auto,q_auto,g_auto/shape/cover/sport/fbl-wc-2022-qat-5d6ebdfb4cd5800da8000001.jpg"" group-title="Sports",World Cup 2022
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://worldiptv.xyz/chlogos/TelekomSport3.ro.png"" group-title="Sports",TelekomSport 3 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/71052
+#EXTINF:-1 group-title="Sports" tvg-logo="http://worldiptv.xyz/chlogos/TelekomSport2.ro.png"" group-title="Sports",TelekomSport 2 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/71051
+#EXTINF:-1 group-title="Sports" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport4.ro.png"" group-title="Sports",DigiSport4 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/70947
+#EXTINF:-1 group-title="Sports" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport1.ro.png"" group-title="Sports",DigiSport1 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/70943
+#EXTINF:-1 group-title="Sports" tvg-logo="http://worldiptv.xyz/chlogos/ZiggoSport.nl.png"" group-title="Sports",ZIGGO Sports
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/71389
+#EXTINF:-1 group-title="Sports" tvg-logo="http://worldiptv.xyz/chlogos/FreeSports.uk.png"" group-title="Sports",Free Sports
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/94918
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg"" group-title="Sports",ANTV
+http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://worldiptv.xyz/chlogos/Eurosport1.uk.png"" group-title="Sports",EuroSport1 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/94908
+#EXTINF:-1 group-title="Sports" tvg-logo="http://boomtivi.xyz/images/logos/GR/eurosport1.png"" group-title="Sports",Eurosport 1
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e961RndFsW58KcNMelMyUCM
+#EXTINF:-1 group-title="Sports" tvg-logo="http://boomtivi.xyz/images/logos/GR/novasp3.png"" group-title="Sports",Nova Sports 3
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8yactgLcAekKc29ct9hkkd
+#EXTINF:-1 group-title="Sports" tvg-logo="http://boomtivi.xyz/images/logos/GR/novasp2.png"" group-title="Sports",Nova Sports 2
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-UHY4EFXaTL62Eh947HkO8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://tv.co-op.tv:25461/images/eacu0galdqo262dr9I5OGngpIpH3q9qY.png"" group-title="Sports",SkySports Football HD
+http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/35031
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.dishurdu.com/images/A-Sports-HD-Logo.png"" group-title="Sports",A Sports HD
+http://115.186.148.250:8000/play/a00s
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg"" group-title="Sports",T_sport
+https://v-px.mybtv.net/live/39.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png"" group-title="Sports",ESPN 2 🇨🇱
+http://201.219.223.101:46000/play/a015
+#EXTINF:-1 group-title="Sports" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png"" group-title="Sports",ESPN COLOMBIA 🇨🇴
+http://200.24.132.99:8000/play/a02m
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.dubaisports.ae/content/dam/dubaisports/logos/brand/dubaisports-logo.jpg"" group-title="Sports",DUBAI SPORTS 3 FHD 🇸🇦
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby
+#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.cookielaw.org/logos/a22264f8-9d14-4ab8-ab4b-a61925d0e901/6b589592-a31b-4ede-9440-c6368b1eb13b/d0426540-ceee-4ccb-b321-ac2656d493bb/fcm_rgbf_s.png"" group-title="Sports",FIFA
+http://51.79.82.208:16417
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Tv-2-sport-premium.png"" group-title="Sports",SPORT PREMIUM 🇨🇿
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/85DZc7wn/image.jpg"" group-title="Sports",Geo Super
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/16088
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_XSPORT.png"" group-title="Sports",X SPORT 🇷🇺
+http://iptv.prosto.tv:7000/ch109/video.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4NhPffYd/download-2.png"" group-title="Sports",Best Cable Sports
+https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png"" group-title="Sports",Ben Sports
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.bundesliga-international.com/wp-content/uploads/2020/11/Match-TV-logo.jpg"" group-title="Sports",Match TV
+https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/RTK1.svg/revision/latest/scale-to-width-down/187?cb=20210630120052"" group-title="Sports",RTK1
+http://146.59.19.1/5002/mpegts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/2560px-Logo_SportTV.svg.png"" group-title="Sports",Sports tv 
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/TYC94.png/revision/latest/scale-to-width-down/250?cb=20200711033423"" group-title="Sports",TyC Sports 1
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMWX0GANAA9x323sL3ttZPioP8Ew-qwcVChaeoNDOI&s"" group-title="Sports",TyC Sports
+http://89.216.39.24/cloud/stream/4ef949d15a0a444280c4d598a0af4286/39/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAAAsCAMAAABorteMAAAAxlBMVEX////cAAAAlQAAAJXbAAAAkwAAjwDz+fTslpZJpkkAkQAAAJFSplI2NZ8AAIvhSUmVxpYflx/hRETgPj799PT65+fzwcHwsrLkZGQAiwDtoKDyvLz319dWVqqVlsacnMnphoalpc7iUlLneHjfMzPdFRXu7vbdHR3JyuK+3L71ysqgzKBosWgUFJffLCz74eIdHZjvqanU6dY0nzSGhr/j5PCt066LwYtkZLDh7+LX1+lLTKa/wNy0tNZ3uHg8O6B2d7gqK5x7gtmRAAADdElEQVRYhe2XW1vbMAyG1TaUHqBsbUpP6damSU+DMtg4bwP+/5+aE8exJMstF7vaw3eH7OqNhKQoAB/639UfN6wG9CxqYIUAm09EG+Zr/UXpa675fJmbZr1uprNSva2+mwRYM+xmS46CBnwbtYhGFxTbaSNd5k8eBBUj7aUS6stn9iA76yM/uwo5ujpuVZnqJOLvNazTzNQj3jMv5yaXlDu0bgb0ZAEXR5xbPTq29+dtjO08KdO1g7X+h9R9VB6s6C/Cm5GDrbZQpgm2PVWWkGMrJstKfcqNjX1M7WP44YZbrY5uzP2fNNxbZVp4s5yXHAUU9Qb0Fync1QWsynRxfdkh4b4q09WeLDvZCHra2qDWc3CKqsj0vb7/QNOcdVESMHAARGOOcB+mC/cebnX0mN1/ouF+yWyLOO4mu10qZjlTihmVnZD8q0ehqIpEN7P7z6SHLon7QMpypgmFDJxwF9CUikqrfgfwi4b7G3uPDTfkXEhIwKnTXOGGhtv6jHXHR8YL9m0KJZg4WD48FhPeQ39IuHU2mJdT2kNrwbWb5UwsPlqHK4ATyj1evpwiEWqtNsWezfQRsgx8eFBlCWoyLjCUMzKcgFSNSJp5waqHBO7cC85HhhGa8cFA4gqj1NyPJC6rJBzuErld4PegmOmxB6zrweWuOzJWjwwbj517nkynHm4oc2Hq4XK/dkrLAU/EgNWW4eHeigHTkZHrvCwt8T8MXREMPi578RU6FRwfKOlI4JpHlLhLgVuMjH6EHZtesu92qqELTsDPlXqpGBnxSuSeyVx3eJRbj8iFNydcPTLUIjqW8iyOSnCHh70oc3kvmZGRkD2tXO6KGnXFh4fdamUu76W2Hhl6SJnf2iwGEXjENo9ZeeDh3gpbhtnMivfe1vpLfVi+zFm7hwuvpLS0rXzhJo3BOEZz8trPxcMDt7mPi99LxchA/6z8u6T8Y+fHqg8Ly02Q2ctFvfSmLUI3smKRZIdHuUjv5cIlGxlqe5WxfJlkKpucNJufW250z4UhrEjgQ9iy7Gla/FyzwebfYdpD6s4ffwuV0sODfgnv4+pewltGGAeMuhDfgEyrwC2+ZusIaYS5MO+0a+03vGXAIC0LWZX08HCw+eMO1VX2gJvmCdI9PVw/PNMlQ2kyTPXnfTzeW8eU/J60HPYSbaP3Mz/07/UXsVdEvfZzZlcAAAAASUVORK5CYII="" group-title="Sports",VTV
+http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/52/VTV2_HD.png/revision/latest?cb=20201228133513&path-prefix=vi"" group-title="Sports",VTV2
+http://stream.nubar.tv:1935/private/NUBARSport/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://nubar.tv/wp-content/uploads/2021/07/Logo-Site-Menu.png"" group-title="Sports",Nuber Sports
+https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/VTV5_logo_2013_final.svg"" group-title="Sports",VTV5 
+http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1280px-VTV6_logo_2013_final.svg.png"" group-title="Sports",VTV6 
+http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e3/BeIN_SPORTS_Max_HD_3_2018_logo1.jpg"" group-title="Sports", Bein Sports MAX 3
+http://175.107.244.52:4457/play/a06z
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg"" group-title="Sports",MBC
+http://123.254.72.24:1935/tvlive/livestream2/chunklist_w431937155.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg"" group-title="Sports",Japan TV 
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/2jcMqKcb/download-1.png"" group-title="Sports",Alfa Sports
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports", BEINSPORTS 1 ʰᵈ
+http://obsfullhd.tv:25461/@TacosTv1/Zm4SGThdhdiurjr/48686
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_beIN_SPORTS_MAX.png/799px-Logo_beIN_SPORTS_MAX.png" group-title="Sports",BEINSPORTS 1 ʰᵈ
+http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43852
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg"" group-title="Sports",Fox Sports 1 
+https://sabbirhasan.pythonanywhere.com/worldcup/premium-fs1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/nz9JpqpS/download.png"" group-title="Sports",Astrakhan.RU Sports
+https://streaming.astrakhan.ru/astrakhanrusporthd/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/MT3LQnWM/download-5.jpg"" group-title="Sports",TNT Sports
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg"" group-title="Sports", Bein Sports MAX 3
+http://175.107.244.52:4457/play/a06z
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg"" group-title="Sports",Direct Sports
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3xxW7DG2/wULpnYR.png"" group-title="Sports",ALL Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4NhPffYd/download-2.png"" group-title="Sports",Best Cable Sports
+https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Fsqv7PnF/image.jpg"" group-title="Sports",Oman Sports TV
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.red24artists.com/wp-content/uploads/2016/10/Becky-Ives-Red-Bull-TV-690x450.jpg"" group-title="Sports",Red Bull TV Sports (akamai)
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/mk3QfJwk/download-16.jpg"" group-title="Sports",Sports TV
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/D0zTS6BR/600x600.png"" group-title="Sports",beIN SPORTS XTRA
+https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/D0zTS6BR/600x600.png"" group-title="Sports",beIN SPORTS XTRA
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658"" group-title="Sports",BEIN_ES_master_4.m3u8
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_4.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e3/BeIN_SPORTS_Max_HD_3_2018_logo1.jpg"" group-title="Sports",Bein Sports MAX 3
+http://175.107.244.52:4457/play/a06z
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Sports",beIN SPORTS 1
+http://obsfullhd.tv:25461/@TacosTv1/Zm4SGThdhdiurjr/163
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png"" group-title="Sports",beIN SPORTS 2
+http://obsfullhd.tv:25461/@TacosTv1/Zm4SGThdhdiurjr/450
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Sports",beIN SPORTS 1
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049176
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Sports",Fox Sports
+http://190.131.228.59:8000/play/a05r/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY95hFcZa2dHfeQFnjFB7m6lephViJ6Q-Ho2v7ZWKiSw&s" group-title="Sports",Fox Sports 1HD
+http://190.131.228.59:8000/play/a0j3/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Fox_Sports_2_%28Argentina%29_Logo_2022.png" group-title="Sports",Fox Sports 2
+http://190.131.228.59:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Fox_Sports_3_%28Argentina%29_Logo_2022.png" group-title="Sports",Fox Sports 3
+http://190.131.228.59:8000/play/a066/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="Sports",Sony Six HD 
+https://tv.googledrivelinks.com/live.php?c=Six_HD&q=800&e=.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Sports",TYC_sports_argentina
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="News",Jamuna TV
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8?nimblesessionid=908878404&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDM6MTY6NDMgUE0maGFzaF92YWx1ZT1KVldCYzcxcUxqbnIwU1dtS29sd01BPT0mdmFsaWRtaW51dGVzPTYw
+#https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/inds.png?x91288" group-title="News",Independent
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/cvWkhfb.png" group-title="News",Somoy tv
+https://somoy.jaagobd.com:444/somoy/somoyt000011226615544544.stream/chunks.m3u8?nimblesessionid=908869994
+#http://208.86.19.13:81/693.stream/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x91288" group-title="News",News 24
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" group-title="News",Ekattor Tv
+http://208.86.19.13:81/675.stream/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/dbc-news.jpg?x91288" group-title="News",DBC News
+https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="News",ATN News
+http://208.86.19.13:81/663.stream/index.m3u8
+
+
+Bangla
+#EXTINF:-1 group-title="Sports" tvg-logo="https://d1nxzqpcg2bym0.cloudfront.net/google_play/com.rtstsportsbd.rtsaiful/37e74dce-dbf6-11eb-8c00-734831dc9cc4/640"" group-title="Sports",T-Sports HD
+http://208.86.19.13:81/9055.stream/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",Gazi Tv
+http://tv.maguraplex.net:8000/live/gazitvhd1/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://sarabangla.net/wp-content/uploads/2022/02/Nagorik-TV-Logo.jpg" group-title="Bangla",Nagorik Tv
+https://cdn.appv.jagobd.com:444/live-orgin/nrb-eu.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/D1K9xTh/Channel9.jpg" group-title="Bangla",CHANNEL 9
+http://208.86.19.13:81/676.stream/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://www.atnbangla.tv/wp-content/uploads/2015/09/atn-bangla-logo-last.png" group-title="Bangla",ATN Bangla
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8?nimblesessionid=908970347&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDQ6MjM6MDggUE0maGFzaF92YWx1ZT10Z0x6RjRUZEd3Ti9kczlCbnRmSnZBPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://atnbanglauk.tv/wp-content/uploads/2015/04/sized1.png" group-title="Bangla",ATN Bangla UK
+http://87.212.248.44:60230/play/a05g/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://cdn6.aptoide.com/imgs/1/0/3/103804d723a156bca1b93c227781161b_icon.png" group-title="Bangla", BanglachannelNY
+http://jupiter.bdcabletv.com/BanglachannelNY/video.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest/scale-to-width-down/300?cb=20210509180125" group-title="Bangla", Zee Bangla HD
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/131691
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/cvWkhfb.png" group-title="Bangla", SA Tv
+http://208.86.19.13:81/613.stream/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/mZcSBBgy/download-9.jpg" group-title="Bangla",Khushboo Bangla
+http://idvd.multitvsolution.com/idvo/khushboo.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla", Sony Aath
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Sony_aath&q=250&e=Ishan.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png" group-title="Bangla", Aakash Aath
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Aakaash_bangla&q=250&e=Ishan.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/6qV6wp6z/58KcYG.jpg" group-title="Bangla", MEEM TV USA
+http://208.86.19.13:81/502.stream/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/PrWrJTPW/58Mkc4.png" group-title="Bangla",Amar bangla
 http://stream1.livebox.co.in/kbcreationhls/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/162-1620250_asian-tv-bd-logo-hd-png-download.png" group-title="Bangla",Asian TV
-#https://last.gcdn.co/IND451/index.m3u8
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/58
-#http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/527.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.bangladeshcircle.com/wp-content/uploads/2016/06/agami-TV-logo.jpg" group-title="Bangla",Agami TV
-http://str24.l9574.com/510.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.alpona.tv/wp-content/uploads/2019/10/alpona_footer_logo.png" group-title="Bangla",Alpona TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://bisswabanglatv.com/wp-content/uploads/2021/06/logo.jpeg" group-title="Bangla",Biswa Bangla 24 TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/biswabanglatv.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangla", Banglavision HD
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/live-orgin/banglav000.stream/chunks.m3u8
-#https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla", Bangladesh Television
-http://103.106.2.149:13456/btv.m3u8
-#https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="Bangla", Bangladesh Television CTG
-http://103.106.2.149:13456/btv_ctg.m3u8
-#https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.staticflickr.com/8163/7570254906_e5ac26aae2_m.jpg" group-title="Bangla",BTV World
-http://103.106.2.149:13456/btv_world.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="Bangla",BOISHAKHI TV HD
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/live-orgin/boishakhitv-org.stream/chunks.m3u8
-#https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/12/boishakhitvplus.jpeg" group-title="Bangla",Boishakhi Tv Plus
-http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhiplus.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Bangla", Bijoy TV
-https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/live-orgin/bijoy00.stream/chunks.m3u8
-#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
-
-#EXTINF:0 tvg-logo="https://cabeltvapp.com/wp-content/uploads/2020/09/bc.jpg" group-title="Bangla",Bangla Channel
-http://208.86.19.21:800/live/BanglaChannelNY/index.m3u8
-
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="Bangla",Bangla TV
-#http://tv.alphamediazone.com:8089/thunderbd/19/index.m3u8
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tr6mXmp/Bangla-Channel.jpg" group-title="Bangla",Bangla Channel
-http://str24.l9574.com/515.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://priyo-image.s3.amazonaws.com/business_photos/logo/5dd1ac87-3e92-45a4-af77-50d75e2c090d.jpg" group-title="Bangla",BD Live Tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/wMKwP3H8/uP36aiN.jpg" group-title="Bangla",Colors Bangla Cinema HD
+http://208.86.19.13:81/907.stream/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDNM6A9aaPW8LNYs4_x5Zdm2yQ1kaSs9wZFA&usqp=CAU" group-title="Movi", Entar 10 Movie
+http://karostream.tulix.tv/ENTER10MOVIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/vBM4pt1t/download.png" group-title="Bangla",Jonack
+https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/tTBQsG3s/Mathrubhumi-news.jpg" group-title="Bangla",Mathribhumi TV
+http://tv.anwarlinkisp.com:1895/live/bangladesh/playlist.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/JnYnZKQ8/je92bUHo.png" group-title="Bangla",R Plus Gold
+http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/gcD7mQ2r/unnamed.png" group-title="Bangla",itv
+http://162.244.81.142:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6FJBN24udmW4Oh4sytPTq224RgBCOc6kU3w&usqp=CAU" group-MEGNA-TV="Bangla Movi",মেঘনা-টিভি
+http://45.125.221.114:1935/live/megnatv/chunklist.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://priyo-image.s3.amazonaws.com/business_photos/logo/5dd1ac87-3e92-45a4-af77-50d75e2c090d.jpg" group-title="Bangla",BD Live Tv
 https://stream.mux.com/e8ustDL8hTiGTkCkE9JLpdJ5uCMcokzn.m3u8?Live-TV™
-
-#EXTINF:-1 tvg-logo="https://www.iptvplayers.com/wp-content/uploads/2021/03/BD-IPTV.png" group-title="Bangla",BD IP TV (T Sports)
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/185
-
-#EXTINF:-1 tvg-logo="https://www.mediabangladesh.net/wp-content/uploads/2015/02/Bangla21-tv.jpg" group-title="Bangla",Bangla 21 TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/4b/27/45/4b2745ca9b244d8ac0c647c72a27bdc9--tv-channels-history-channel.jpg" group-title="Bangla",Channel H 
-http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channelhtv.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.channels.com.bd/wp-content/uploads/2021/03/Logo-Final.png" group-title="Bangla",Channel S BD
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/178
-
-#EXTINF:-1 tvg-logo="https://www.mediabangladesh.net/wp-content/uploads/2015/02/channel-s-uk.jpg" group-title="Bangla",Channel S HD (Sports)
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/95
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Qruo84PP04jnPb1rC1TR67DHd5gU9CfP8mZtdh2kVbbGB9equQKFIGjlYK4k62TJ8Yk" group-title="Bangla",CNN Bangla
-https://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://channel19.tv/wp-content/uploads/2020/12/Channel-19-Logo-White.png" group-title="Bangla", Channel 19
-#http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/995.m3u8
-https://live.salmanrajz.com/hls/channel19.m3u8
-
-#EXTINF:-1 tvg-logo="http://channel23.tv/wp-content/uploads/2021/08/23-logo.png" group-title="Bangla", Channel 23
-http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8?token=soheliptv01826655778
-
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/12/canbangla.jpg" group-CAN-BANGLA="BANGLA ENT.",Can Bangla
-https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangla", Channel I HD
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/live-orgin/channeli-8-org.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://channeltt.tv/uploads/meta_image/small-logo.png" group-title="Bangla",Channel TT IPTV
-https://www.cdn.streamcast.xyz:19360/channeltt/channeltt.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kVT6VKt/cumilla24.png" group-title="Bangla",Cumilla 24 TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4kxxSCq.png" group-title="Bangla",Colosal TV (720p)
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhiplus.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="Bangla",Desh TV
-https://last.gcdn.co/IND443/index.m3u8
-#http://103.205.133.40/hls/deshtv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Bangla", Deepto TV HD
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/125
-#https://last.gcdn.co/IND450/index.m3u8
-#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/191
-#https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deeptotv.stream/live-orgin/deeptotv.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla", Duronto TV 
-https://236s.short.gy/DreamTV/Duranta.m3u8
-#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/161
-#http://89.187.185.89:3232/ban-duronto/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://digibangla.tv/assets/img/logo-tv.png" group-title="Bangla", Digi Bangla 24 HD
-http://10.16.100.213:8080/hls/digibangla.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/gaVwctEWzKExNeUdGkOp6A0e6Motpc6EuQdUZgrOeGA9bqMHEnksTj_TCIPqwwHSXF-0kE4df-lrvRdIILHFrlySzNUkljPFOwWJm_JTDjBxxUI8o99dakomahJT8kL0U4hd6T9u0L4imSqRSQ" group-title="Bangla", Doyel TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/doyeltv.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" group-title="Bangla", Deshi TV
-http://72.139.72.18:1935/live/myStream/chunklist_w1702774192.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbFM_It5WYKbSFnDwODEyfy7jQ0oQxfsg_dlmAfL1EsmhOySFkmvFQfnOzHRDbPsXdAyI&usqp=CAU" group-title="Bangla",DesheBideshe
-https://tempabs.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangla", Ekusey TV
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://channeltt.tv/uploads/meta_image/small-logo.png" group-title="Bangla",Channel TT IPTV
+https://2-fss-2.themediacdn.com/pl_118/amlst:201982-1318992/playlist.m3u8?Live-TV™
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngFx0fbIvgK8rehQj_oVCIyiVay0diGJwLqU_oXdw=s900-c-k-c0x00ffffff-no-rj" group-title="Islamic",Madni tv Bangla
+https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangla", Channel I HD
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://pbs.twimg.com/profile_images/845559853540040704/Q1eC2EZ1_400x400.jpg" group-title="Bangla",Jonmobhumi TV
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="Bangla",Rtv
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla", ATN Bangla
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangla", Banglavision HD
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Bangla", Bijoy TV
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/playlist.m3u8
+#http://208.86.19.13:81/667.stream/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="Bangla",BOISHAKHI TV HD
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla", Bangladesh Television
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/K_Bangla_Tv_-Logo.png" group-title="Bangla",Can Bangla TV
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla", Channel 24 HD
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangla", Ekusey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #https://ekusheyserver.com/etvlivesn.m3u8
-
-#EXTINF:-1 tvg-logo="https://eurobanglatv.net/upload/header/Euro-Bangla-TV-Logo.png" group-title="Bangla", Euro Bangla TV
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/222
-
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-TViCNxP7IPA/X8VRu6_QpnI/AAAAAAAABEg/KNUy4e-F-BUIj6rl-kWzahXB7JXzrqsKgCLcBGAsYHQ/s16000/Falguni-TV-logo.png" group-title="Bangla",Falguni TV
-https://atv-hls.telelivebd.com:443/atv/atv.m3u8
-
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangla", Gazi TV HD
-http://103.78.255.178:8080/gtv/index.m3u8
-#https://236s.short.gy/DreamTV/GTV.m3u8
-#https://rebrand.ly/JB/GaziTvHD
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipOSYx2VvUR0itVtlptQ9-LwhM6L3EL3rlSKw0T-=w600-h0" group-title="Bangla",Hernet IPTV
-https://server1.jadubd.com/hernettv/hernettv/chunklist_w604863394.m3u8?Live-TV™
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0JLNqRC/Itv.jpg" group-title="Bangla",iTV
-http://162.244.81.142:1935/live/livestream/playlist.m3u8?@amarnettv.live
-#http://162.244.81.142:1935/live/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRtkt1BgUC-EQqPl2j1DrDEtNNejTm1tXSr-TvA=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla",iON TV UK
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iontvuk.stream/chunks.m3u8
-
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkB6qXdV6i26Ba8jnqAItDB_KvMvLnLBANkA&usqp=CAU" group-title="Bangla", Jagoron Tv
-http://203.190.11.101:1935/live/remote/chunklist_w1446657896.m3u8
-#https://m3u-editor.com/serve/f2cd7100-4707-11ec-adcf-c5e40a091995/427524641
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Jonack.png/revision/latest?cb=20191219100639" group-title="Bangla", Jonack Bangla
-http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/845559853540040704/Q1eC2EZ1_400x400.jpg" group-title="Bangla",Jonmobhumi TV
-#https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/chunks.m3u8
-https://live.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyMCAzOjEzOjIxIFBNJmhhc2hfdmFsdWU9NWRHWGl2K0JzTjlXM1YzakRUaEpVQT09JnZhbGlkbWludXRlcz00MA==
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkrlcD-Cvy9gkmaPCIKLI1Bw_KPr1N0eCsMewJErkJOzwFD3dGpQYgmYDyPEkN6INiAgE&usqp=CAU" group-title="Bangla",Jagoron TV 
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jagoronitv.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://televisionbd.com/uploads/tv_image/joy-jatra-tv.png" group-title="Bangla",JoyJatra TV 
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8
-
-#EXTINF:0 tvg-logo="https://jaratv.tv/wp-content/uploads/2021/03/Web-Logo.png" group-JARA-TV="Bangla.",Jara Tv
-https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jaratv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjwGg2XyMGxFITXm_54WBnNF_zBYcYw9n1E_PlCxoo=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla",KTV Bangla
-https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSyDrrq8VHhlNBWDcOpKtcK4ttA8O91dlkXg3nUfA=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla",MAQ TV
-http://str24.l9574.com/517.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga HD
-http://tv.alphamediazone.com:8089/thunderbd/51/index.m3u8
-#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-millennium-tv-usa-7547.jpg" group-title="Bangla",Millennium TV
-https://last.gcdn.co/IND413/index.m3u8
-#https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="Bangla",MY TV
-https://last.gcdn.co/IND439/index.m3u8
-#https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Mohona_Logo.JPG" group-title="Bangla",MOHONA TV
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
-#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YJxFSMQ.jpg" group-title="Bangla",Magic Bangla IPTV [BD]
-http://enaniptv.com/magicbanglatv/1080/index.m3u8
-
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2nmEE5djHXQRsmr3ckhxAH0lc08_K3lOfjA&usqp=CAU" group-title="Bangla",Meghna TV
-http://45.125.221.114:1935/live/megnatv/chunklist.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNUNSnM7_yeeuZDG9pruWDaYmJvy1wMjkC3g&usqp=CAU" group-title="Bangla",Nagorik TV
-https://last.gcdn.co/IND433/tracks-v1a1/mono.m3u8
-#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/171
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xJjQP6L/Nan-Tv-Logo-Final.png" group-title="Bangla",NAN TV
-https://tempabs.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XcJZKg4.png" group-title="Bangla",Nexus TV (720p)
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QWJNqS5.jpeg" group-title="Bangla",Nokshi TV (720p)
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nakshitv.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla", NTV
-http://103.159.4.38:5868/BD-BANGLA-18/tracks-v1a1/mono.m3u8
-#http://tv.alphamediazone.com:8089/thunderbd/54/index.m3u8
-#http://jupiter.bdcabletv.com/NTV/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Brv8XBm/NRB-TV.png" group-title="Bangla",NRB IPTV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7HplreU.jpg" group-title="Bangla",NANDAN Tv
-http://nandansyst.com/hls/nandan.m3u8
-
-#EXTINF:-1 tvg-logo="http://nobodiptv.com/file/uploads/2017/12/logo-nobodiptv.png" group-title="Bangla",Nobodip TV
-#https://last.gcdn.co/IND452/index.m3u8
-http://nobodip.mywire.org:8081/beeiptv/nobodip/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k2evwjpp9oo64yr/onuvhuti-TV.png" group-title="Bangla", Onubhuti TV
-http://149.28.147.59/live/onuvhuti/index.m3u8
-#http://103.68.4.50:1935/live/onuvuti/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Avbb36g.jpg?1" group-title="Bangla",Provashi Bangla IPTV [BD]
-https://edge01.iptv.digijadoo.net/live/probashibangla/chunks.m3u8
-
-#EXTINF:0 tvg-logo="http://bdiptv.stream/uploads/tv_image/progoti-tv.jpg" group-PROGOTI-TV="Bangla",প্রগতি-টিভি
-http://tv.bdiptv.com:8081/live/progoti/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kdez6Hz.jpg" group-title="Bangla",PAN VISION IPTV
-https://tempe.jagobd.com:445/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://tv.bdtype.com/uploads/tv_image/qtv-bangla.png" group-title="Bangla",QTV Bangla
-http://stream.telelivebd.com/Qtvbangla/Qtvbangla.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="Bangla",Rtv
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/live-orgin/rtv-sg.stream/chunks.m3u8
-#https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://tvtolive.com/wp-content/uploads/Rang-TV-bd-tvtolive.com_-1.jpg" group-title="Bangla",Rang TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rangiptv.stream/chunks.m3u8
-#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rangiptv.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://tv.bdtype.com/uploads/tv_image/cnbc-tv18.png" group-title="Bangla",Roal TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://pavilion.com.bd/pavupload/post/19266/thumbnail/21668-1614834023973-ss.jpg" group title="Bangla", Rabbithole bd sports (Youtube)
-https://www.youtube.com/watch?v=IplKbP_2dk0
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangla",Sangsad tv
-https://rhridoy136.shortcm.li/sangsadtv.m3u8
-
-#EXTINF:-1 tvg-logo="https://chsuk.tv/img/cateringcircle.png" group-title="Bangla",Channel S
-http://str24.l9574.com/519.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/3czsZw1szMZGAUy5dV0kxmhCOI6_RqxwlQvVtq92Pl_yM5TIQw38RRhFCWaUWPa8ZmEKn0rR=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla",Shapla Tv
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://sristytv.net/wp-content/uploads/2021/08/Sristy-tv-2.png" group-title="Bangla",Sristy tv
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/sristytv.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZXAvBfX.png" group-title="Bangla",Shopno IPTV
-https://talusafagroup.ddns.net:8080/shopno/shopnotv.m3u8
-#http://43.231.22.238:8081/SHOPNO/shopnotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A7FuCH7.png" group-title="Bangla", Sobuj Bangla IPTV [BD]
-http://45.77.242.60/live/sobujbangla/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Bangla",SA TV
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/57
-#https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMBVFeqkNHx8qW33u3-YwAA6_QYTd7hHj384eGiYW6zfok5Gq86BuSXck_XVnaw9hDKw&usqp=CAU" group-title="Bangla",Time Television (720p)
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla", T Sports HD
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/241
-#http://tv.alphamediazone.com:8089/thunderbd/1/index.m3u8
-#http://113.212.111.246:8080/hls/col2.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Channel.svg/revision/latest?cb=20171118151801" group-title="Bangla",The Channel TV
-http://str24.l9574.com/518.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQE158A8SYFWWw/company-logo_200_200/0?e=2159024400&v=beta&t=5FmfI6ynqEqdIlnTmc3cUkRp5vmwV6RnC5kZLA_4LSw" group-title="Bangla", TBN 24 USA
-https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://cabeltvapp.com/wp-content/uploads/2021/04/bangla-tv-ny-200x200.jpg" group-title="Bangla", USBangla
-http://208.86.19.21:800/live/banglany2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png" group-title="Bangla",Voice TV
-https://tempabs.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wQVJWSk/Varendra-TV.jpg" group-title="Bangla",Varendra TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/varendratv.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://channel52.tv/logo.jpg" group-title="Bangla",TV52 Bangla Channel
-https://5dd3981940faa.streamlock.net/channel52tv/channel52tv/chunklist_w2102345989.m3u8
-#http://str24.l9574.com/503.stream/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/209
-#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/77
-#http://65.2.4.240/jioo.php?c=Zee_Bangla&q=1200&e=junk.m3u8
-#https://sneh-zee5tv-1.up.railway.app?c=0-9-zeebangla
-
-#EXTINF:-1 group-title="Most Popular" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zee-bangla-in.png",Zee Bangla HD
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/209
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Bangla", Zee Bangla Cinema
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/213
-#https://snehz5tvnew.herokuapp.com?c=0-9-zeebanglacinema
-#http://65.2.4.240/jioo.php?c=Zee_Bangla_Cinema&q=1200&e=junk.m3u8
-#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/213
-#http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/98822
-
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Bangla", Star Jalsha HD
-http://208.86.19.21:80/908.stream/index.m3u8
-#https://last.gcdn.co/IND391/tracks-v1a1/mono.m3u8
-#https://last.gcdn.co/IND392/tracks-v1a1/mono.m3u8
-#http://137.59.155.253:8088/hls/Star_Jalsha.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla", Star Jalsha Movies HD
-#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3412
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/155
-
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="Bangla", Sony Aath
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/81
-#http://jo123.biz/jweb/m3u8.php?c=Sony_aath&q=600&e=junk.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla", Colors Bangla HD
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/78
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/R_Plus_Gold.jpeg/revision/latest/scale-to-width-down/250?cb=20191230183135" group-title="Bangla",R Plus Gold
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png/revision/latest?cb=20210423103549" group-title="Bangla", Khushboo TV
+http://idvd.multitvsolution.com/idvo/khushboo.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/R-plus-gold.jpg/revision/latest?cb=20191230183047" group-title="Bangla", R Plus Gold
 http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/d/de/%E0%A6%86%E0%A6%B0_%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B8_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="Bangla",R Plus
-https://cdn.smartstream.video/smartstream-us/rplus/rplus/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Bangla", Enter 10 Bangla
-http://103.81.104.118/hls/enterr10.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png/revision/latest/scale-to-width-down/200?cb=20210319122931" group-title="Bangla",Sun Bangla
-http://103.81.104.118/hls/sunbangla.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/521344904044101632/rDRAPIOM_400x400.jpeg" group-title="Bangla",DD Bangla
-https://d30uyb7igts9op.cloudfront.net/DD_BANGLA.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRHA9blYwnVrZHvp4MalItdJj7LA-RY_9QV9q1PzlI-1EVSgnwD&usqp=CAU" group-title="Bangla",Ruposhi Bangla
-http://103.205.133.21/hls/ruposhibangla.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hiXQiMa.jpg" group-title="Bangla", Khusboo Bangla
-https://idvd.multitvsolution.com/idvo/khushboo.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Jonack.png/revision/latest?cb=20191219100639" group-title="Bangla", Jonakk Bangla
-http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png" group-title="Bangla", Aakash Aath
-http://65.2.4.240/jioo.php?c=Aakaash_bangla&q=1200&e=.m3u8
-
-
-
-
-
-
-
-                                            #Sharif Akhand/News#
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla", Channel 24
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#https://rhridoy136.shortcm.li/channel24.m3u8
-
-#EXTINF:-1 tvg-logo="https://logovectordl.com/wp-content/uploads/2019/12/news24bd-tv-logo-vector.png" group-title="Bangla",News 24
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
-#https://rhridoy136.shortcm.li/news24.m3u8
-
-#EXTINF:-1 tvg-logo="https://thedailynewnation.com/library/1396623976_0.jpg" group-title="Bangla,Jamuna TV
-#http://tv.alphamediazone.com:8089/thunderbd/13/index.m3u8
-#https://last.gcdn.co/IND432/index.m3u8
-https://rhridoy136.shortcm.li/jamunatv.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/4b/4b2f313b86df0505ff8277c57bdba411.jpeg" group-title="Bangla",Shomoy TV
-https://somoy.appv.jagobd.com:444/somoy/somoyt000011226615544544.stream/playlist.m3u8
-#https://rhridoy136.shortcm.li/shomoytv.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="Bangla",ATN News
-#https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/live-orgin/atnws-sg.stream/chunks.m3u8
-https://rhridoy136.shortcm.li/atnnews.m3u8
-
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="Bangla",Independent TV
-https://last.gcdn.co/IND430/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/969/124/png-clipart-logo-bangladesh-independent-television-television-channel-design-television-text.png" group-title="Bangla",Independent Tv
-#http://tv.alphamediazone.com:8089/thunderbd/12/index.m3u8
-#https://last.gcdn.co/IND430/index.m3u8
-https://rhridoy136.shortcm.li/independenttv.m3u8
-
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangla",Ekattor TV
-#http://tv.alphamediazone.com:8089/thunderbd/11/index.m3u8
-#https://last.gcdn.co/IND429/index.m3u8
-http://103.159.4.38:8080/BD-BANGLA-7/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Bangla",DBC News
-http://103.159.4.38:5868/BD-BANGLA-13/index.m3u8
-#https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8
-#https://rhridoy136.shortcm.li/dbcnews.m3u8
-
-
-
-
-                                                                 #Sharif Akhand/Bangla Movi#
-                         
-#EXTINF:-1 tvg-logo="https://scontent.fdac116-1.fna.fbcdn.net/v/t39.30808-6/256282885_573515137084929_4089983955869332804_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=825194&_nc_ohc=USyp8ZC_kOAAX9FYDAy&_nc_ht=scontent.fdac116-1.fna&oh=5a058df73811773f6579fdeeecfe0877&oe=6199A84A" group-title="Bangla",AAMAR BANGLA
-https://stream1.livebox.co.in/kbcreationhls/live.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkB6qXdV6i26Ba8jnqAItDB_KvMvLnLBANkA&usqp=CAU" group-title="Bangla",Star Bangla
-http://103.172.44.100:1935/starbanglatv/myStream/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6FJBN24udmW4Oh4sytPTq224RgBCOc6kU3w&usqp=CAU" group-title="Bangla",মেঘনা-টিভি
-http://45.125.221.114:1935/live/megnatv/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C2xIgC5.jpg" group-title="Bangla",AAMAR CINEMA [IN]                          
-https://sony247channels.akamaized.net/hls/live/2008247/AamarCinema/master.m3u8?    
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrnjmRzgpWnA-EtEv_GbYU0TwhTYKGhpRRBQ&usqp=CAU" group-title="Bangla", D Tv
-https://tv.bdtv.xyz:2096/gbtv71/dtv/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Khushboo_TV.jpeg/revision/latest?cb=20191223164128" group-title="Bangla",Khushboo Bangla TV
-http://idvd.multitvsolution.com/idvo/khushboo_540p/index.m3u8
-
-                         
-#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/movie-bangla.png" group-title="Bangla",Movie Bangla
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/incAso3N_zW-6L7zsN4szBGg6WZWO4i-U25WLEeNhBVC6YAlAWPE5ZL7q2V1aScJ836mZGbh7w=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla",Bongo Movies
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/71
-
-#EXTINF:0 tvg-logo="https://cabeltvapp.com/wp-content/uploads/2020/09/PNG-200x200.png" group-title="Bangla",Mim Tv
-http://208.86.19.21:800/live/meemtv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/izK1zjI.jpg" group-title="Bangla", Tollywood [IN]
-http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ovmlAb1.jpg" group-title="Bangla", Tele Film [IN]  
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/162
-
-
-
-
-
-
-
-                                                         #Sharif Akhand/Hindi Movi#
-  
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest?cb=20201011095253" group-title="Bangla", and Pictures
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/317
-#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/92
-
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="Bangla",Bflix Movies
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/159
-
-#EXTINF:-1 tvg-logo="http://boxcinemedia.com/assets/img/logo.png" group-title="Bangla",Box Cinema
-https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="BBO" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-white.png" group-title="Bangla", BBO
-https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="BBO Classic" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/BBO-Classic-white.png" group-title="Bangla", BBO Classic
-https://yuppcatchup.akamaized.net/preview/bboclassic/2500.m3u8
-
-#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Bangla, B4U Movies
-http://65.2.4.240/jioo.php?c=B4U_Movies&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest?cb=20200320100818" group-title="Bangla", B4U Kadak
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Jonack.png/revision/latest?cb=20191219100639" group-title="Bangla",Jonack TV (360p)
-https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KBO CLASSIC" tvg-logo="https://i.imgur.com/dqi1sh8.png" group-title="Bangla", KBO CLASSIC
-https://catchup.yuppcdn.net/amazonv2/20/preview/kboclassic/master/master.m3u8
-
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS8EQUXgPvnJjPH95nBiBkRMi_nk5x4yomVLA&usqp=CAU" group-title="Bangla",Maha Movie
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/218
-#http://14.199.164.20:4001/play/a0q7/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPuBXRz.jpg" group-title="Bangla",MANORANJAN MOVIES
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/216
-#https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Manoranjan_Grand.jpeg/revision/latest/scale-to-width-down/300?cb=20191220115523" group-title="Bangla",Manoranjan Grand TV
-http://14.199.164.20:4001/play/a0m2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8wXzE1MzE1NDE5NTRfMDc4/screen-0.jpg?h=500&fakeurl=1&type=.jpg" group-title="Bangla", Rasi Movies
-http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Bangla", SONY MAX
-http://nicefly.xyz:80/h21041003/651032140/246204
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Bangla", Sony Max HD 
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/147
-#http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Sony_Max_2.svg/revision/latest/scale-to-width-down/220?cb=20200122044355" group-title="Bangla", Sony Max2
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/197
-#http://m3u.rapid-ott.com:8080/3173434353113478/2598854265/218186
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Sony_Movies_Action.jpg/revision/latest/scale-to-width-down/200?cb=20200608133037" group-title="Bangla",Sony Movies Action
-http://51.52.156.22:8888/http/009
-
-#EXTINF:-103 tvg-logo="https://www.pngitem.com/pimgs/m/245-2459623_no-image-star-gold-channel-logo-hd-png.png" group-title="Bangla",Star Gold
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/193
-#http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/193.m3u8
-#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2848
-
-#EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Bangla",Star Gold HD
-#http://93.152.174.144:4000/play/stargold/index.m3u8
-http://ablivetv.webd.pro/star7/star7.php?id=48107&e=.m3u
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Bangla", Star Gold 2
-http://58.27.219.166:8000/play/a07b/index.m3u8
-#http://103.153.39.34:8000/play/a06p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/SGS.jpg/revision/latest?cb=20171105034707" group-title="Bangla", STAR GOLD SELECT HD
-#http://ottss.online:8000/44122162500170/30316873476781/178702
-http://208.86.19.21:80/709.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Star_Utsav_UK.png/revision/latest/scale-to-width-down/250?cb=20190712150244" group-title="Bangla",STAR UTSAV MOVIES
-http://103.205.133.44:1935/ns/STARUTSAVMOVIES/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FYym7gH.png" group-title="Bangla",Utsav Gold
-http://208.115.215.42/Utsav_Gold_HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/09/utv-movies-1-2-2.jpg" group-title="Bangla", UTV Action
-http://103.153.39.34:8000/play/a06o/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" group-title="Bangla",Wow Cinema
-https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s690F67.png" group-title="Bangla",Wow Cinema One
-https://live.bongobd.com/hls/H_nJGUhAw9CSZaekFzwmIg/1634414302/atn_music.m3u8
-#http://14.199.164.20:4001/play/a0n3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logovtor.com/wp-content/uploads/2020/12/zee5-logo-vector.png" group-title="Bangla", Zee5 Originals (1080p)
-https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-nJW4kDR4RKw/X56XelsO1CI/AAAAAAAAC90/wUrtQxLUx1QzDF3OE79TGhkpmuHunPlfwCLcBGAsYHQ/s600/09zeecinemazeecinema.jpg" group-title="Bangla",Zee Cinema UK
-https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Bangla",Zee Cinema
-https://feed.play.mv/live/1009/U4igJyzIbn/master.m3u8
-
-#EXTINF:0 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zee_cinema.png" group-title="Bangla",Zee Cinema IN
-http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Bangla", Zee Cinema HD
-http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
-
-#EXTINF:0 tvg-logo="https://www.linkpicture.com/q/Zee-classic.png" group-title="Bangla",ZEE CINEMA CLASSIC
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/64117
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png/revision/latest?cb=20200113074207" group-title="Bangla", Zee Action HD
-http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Bangla", Zee Bolywood
-http://f8e7y4c6.ssl.hwcdn.net/classic/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F7g0l9E.jpg" group-title="Bangla",Zee Bioskop
-http://210.210.155.35/qwr9ew/s/s32/index.m3u8
-
-#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="Bangla", Zee Anmol Cinema
-http://65.2.4.240/jioo.php?c=Zee_Anmol_Cinema&q=1200&e=.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Zee_mundo_Logo.jpg/220px-Zee_mundo_Logo.jpg" group-title="Bangla",Zee Mundo
-https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" group-title="Bangla"Zee5 Originals
-https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Zee_Classic.png/revision/latest/scale-to-width-down/200?cb=20100709071245" group-title="Bangla",Zee Classic
-https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joo_Music.png/revision/latest?cb=20200108100316" group-title="Bangla", Zoo Music
-https://eu-fr.tvapp.icu/joomusic/tv/playlist.m3u8
-
-
-
-
-                                               #Sharif Akhand/Music#
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="Bangla",ATN Music
-http://tempskyview.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="Bangla",Gaan Bangla HD
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/198
-#http://103.205.133.40/hls/gaanbangla.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg?x91288" group-title="Bangla", RTV Music
-http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8
-#http://babutv.aliflailabd.com:8989/rtvmusic/index.m3u8
-#https://rhridoy136.shortcm.li/rtvmusic.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Bangla",Sangeet Bangla
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangla",iON TV
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iontvuk.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/XcJZKg4.png" group-title="Bangla",Nexus TV
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS-VnY2QqwVuV4rLhFEnc2E3MKzrBBde5MBwYiNTL16g&s" group-title="Bangla",NRB TV
+https://cdn.appv.jagobd.com:444/live-orgin/nrb-eu.stream/chunks.m3u8
+#https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla", NTV
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Bangla", CNN Bangla
+http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/KvbmHQz2/PK9Gm5g.png" group-title="Bangla", Duronto TV
+http://89.187.185.89:3232/ban-duronto/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Bangla", Deepto TV HD
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deentv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://www.deshebideshe.tv/assets/importent_images/footer-logo.png" group-title="Bangla", Deshebideshe HD
+https://cdn.appv.jagobd.com:444/live-orgin/deshebideshe.stream/chunks.m3u8
+#https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://lh3.googleusercontent.com/proxy/MH-gJcYm077DRXA1gkfbxgKPN8pXTKM9MrJyUqOeZSXCP9Kzzc6yf9lcToajFEiCgub9p1Zu9yTk1nV3VNoKAnsHVY6dF5JV0CdPtA_djauWvLOi2ePvP-bAq6YURS8" group-title="Bangla", Doyel TV
+http://ipm.oncast.me:1934/iplived/ip-doyeltv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="Music",Gaan Bangla HD
+http://208.86.19.13:81/612.stream/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Bangla", Bangla Tv
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/live-orgin/banglatvhd.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo=”https://i.imgur.com/4imblNY.jpg" group-title="Bangla", Mohona TV
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Music", Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTzEQ9heTuhfYJcQAMkTkhi3-vFnFAN2QWDXyLlMGmyJCqafMF&usqp=CAU" group-title="Bangla", Dhoom Music
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/98
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l6BlALg.jpg" group-title="Bangla",Music Fatafati
-https://edge01.iptv.digijadoo.net/live/music_fatafati/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangla, Music India
-https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
-
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="Bangla",9XM
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8?token=soheliptv01826655778
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQ-4nJohL8IrVe8hD0RG8TuxNE8Dd28I-mzw5z7F0bSDwL7ZR6&usqp=CAU" group-title="Bangla", 9X Jalwa
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/33
-#https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8?token=soheliptv01826655778
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3aycxVe" group-title="Bangla", 9X Jhakaas
-#http://14.199.164.20:4001/play/a0mx/index.m3u8
-https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/Mastiii_Sabgroup.jpg/revision/latest/scale-to-width-down/300?cb=20190204154331" group-title="Bangla", Mastiii
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Mastiii_2016.png/revision/latest?cb=20190204154300" group-title="Bangla", MASTI TV
-http://103.228.112.96:1935/masti/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/ZeeMusicCo.jpg" group-title="Bangla",Zee Music
-https://f8e7y4c6.ssl.hwcdn.net/magic/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/110-1105219_b4u-music-b4u-music-logo-png.png" group-title="Bangla",B4U Music
-https://feed.play.mv/live/1009/n6W19r2lg7/master.m3u8
-#http://14.199.164.20:4001/play/a0wk/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.zee.com/uploads/imgo.jpeg" group-title="Bangla", Zee Music Co
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/303.ts
-
-
-
-
-
-
-                                          #Sharif Akhand/Islamic Tv#
-                                          
-
-
-
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/IQRA-BANGLA-TV.jpeg" group-title="Bangla",Iqra Bangla TV
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/67
-#https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngFx0fbIvgK8rehQj_oVCIyiVay0diGJwLqU_oXdw=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla",Madni tv Bangla
-https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://cdn.bongobd.com/upload/channels/landscape/DJcpP2t4Mdp.png"ATN  ISLAMIC"  group-title="Bangla",ATN ISLAMIC
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tv14.net/wp-content/uploads/2013/03/Makkah-TV-logo-Saudi-Arabia.jpg" tvg-name="Makkah TV"  group-title="Bangla",Makkah TV
-http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png" group-title="Bangla",Makkah TV
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8			
-
-#EXTINF:-1 tvg-logo="https://durbinlive.com/uploads/tv_image/sm/madani-channel-bangla.jpg" group-title="Bangla",Madani TV Bangla
-https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/IQRA-BANGLA-TV.jpeg" group-title="Bangla",Iqra Bangla TV
-https://rhridoy136.shortcm.li/iqrabangla.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="Bangla",Peace Tv Bangla
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/94
-#http://89.38.99.153:8032/eu_bangla_adapt/tracks-v1a1/mono.m3u8
-
-
-                          #Sharif Akhand/Cartoon Channel#
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Bangla", Cartoon Network English
-http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Bangla", Sonic Nickeloden
-http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Bangla", Pogo
-http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Bangla", Nick
-http://jo123.biz/jweb/m3u8.php?c=Nick_Bangla&q=800&e=junk.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Bangla", Nick Junior Hindi
-http://103.153.39.34:8000/play/a04r/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Bangla", Hungama Tv 
-http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png" group-title="Bangla", Sonic Bangla
-http://65.2.4.240/jioo.php?c=Sonic_Bangla&q=1200&e=.m3u8
-
-#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Bangla", Nick Bangla
-https://m3u-editor.com/serve/f2cd7100-4707-11ec-adcf-c5e40a091995/427524673
-
-#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Bangla", Nick Bangla HD
-http://65.2.4.240/jioo.php?c=Nick_Bangla&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7sUmqv2.png" group-title="Cartoon",WZra Kids TV
-http://wpso.com:1936/hls/kidshd.m3u8
-
-
-
-
-
-
-
-
-                                                       #Sharif Akhand/Sports#
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="Bangla",GAZI TV 
-https://rhridoy136.shortcm.li/btv.m3u8
-https://piratesiptv.shortcm.li/gazi.m3u8
-#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/185
-#http://45.72.100.66/indian/BANGLA-BD-Gazitv/tracks-v1a1/mono.m3u8
-#http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
-#https://rebrand.ly/JB/GaziTvHD
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.logolynx.com/images/logolynx/c7/c782f45f5f3fb7b05cb32449d7c29ff7.png" group-title="Bangla",Star Sports HD2
-http://tv.alphamediazone.com:8089/thunderbd/26/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Sss-hd2-bronze.png/revision/latest?cb=20170728104956" group-title="Bangla",Star Sports Select HD 2
-http://tv.alphamediazone.com:8089/thunderbd/28/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://likeetv.com/uploads/tv_image/sony-six.jpg" group-title="Bangla",Sony Six HD
-http://tv.alphamediazone.com:8089/thunderbd/24/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.toiimg.com/thumb/msid-85450736,width-1200,height-900,resizemode-4/.jpg" group-title="Bangla",A Sports HD
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/157
-#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/234
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Star_Sports_1_Bangla.png/revision/latest?cb=20190304172853" group-title="Bangla",Star Sports 1 Bangla
-http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/SS1Hindi.jpg/revision/latest/scale-to-width-down/200?cb=20191214225552" group-title="Bangla",Star Sports 1 Hindi
-http://nicefly.xyz:80/h21041003/651032140/246218
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Star_Sports_1.jpg/revision/latest?cb=20201230233908" group-title="Bangla",Star Sports 1 
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/300
-#http://93.152.174.144:4000/play/ss1in/index.m3u8
-#http://172.27.27.3:8081/local/star-sports-1-hd/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png/revision/latest/scale-to-width-down/250?cb=20170728071015" group-title="Bangla",Star Sports 1 HD
-http://103.81.104.118/hls/stersports1hd.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359" group-title="Bangla",Star Sports 2 
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/160
-#http://93.152.174.144:4000/play/ss2in/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Bangla",Star Sports 3
-#http://103.109.56.116/live/skyfeed1022/index.m3u8
-#http://nicefly.xyz:80/h21041003/651032140/246220
-http://93.152.174.144:4000/play/ss3in/index.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqofqkSdV0FYPjh95gaFnyaiBZihfwDh7HrQ&usqp=CAU" group-title="Bangla",Star-HD
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112" group-title="Bangla",Star Sports 3
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/411.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="Bangla",Star Sports Select 2
-#http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
-http://221.120.204.4/STAR-SPORTS-SELECT-2-LOCKLE/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN3HD_Masthead_Logo.png" group-title="Bangla",Sony Ten HD 3
-http://tv.alphamediazone.com:8089/thunderbd/22/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Bangla", Sony Ten 1
-https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
-#http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
-#http://rubeliptv.zapto.org:25461/ips7/44332277/309
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Bangla", Sony Ten 1 HD
-http://tvflix00.hopto.org/hls/chst1.m3u8
-#http://103.159.4.38:8080/SPORTS-8/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Bangla",Sony Ten 2
-https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
-#http://tvflix00.hopto.org/hls/chst2.m3u8
-#http://jupiter.bdcabletv.com/Ten2HD/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Bangla",Sony Ten 2 HD
-https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
-#http://babutv.aliflailabd.com:8989/sony-ten2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Bangla", Sony Ten 3
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/163
-#https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Bangla",Sony Ten 3 HD
-https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
-#http://indo51.gcdn.co/TEN3HD/tracks-v1a1/mono.m3u8
-#http://tvflix00.hopto.org/hls/chst3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="Bangla",Sony Ten 4
-http://jo123.biz/jweb/m3u8.php?c=Ten_4_Telugu&q=800&e=junk.m3u8
-#http://jupiter.bdcabletv.com/Ten4/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Bangla", Sony Six
-https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Bangla", Sony Six HD
-https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
-#http://babutv.aliflailabd.com:8989/sony-six-hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket.png", group-title="Bangla", Ten Sports
-http://stop.next-code.xyz:2052/Nador/66263/62857
-#http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5433
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="Bangla",PTV Sports
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/96
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="Bangla",Geo Super TV
-http://221.120.204.4/geo-super-LOCKLE/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042011/sec_espn.png?itok=BD_q_-c7" group-title="Bangla",ESPN SEC 
-http://164.68.124.111/sec.m3u8
-
-#EXTINF:-1 tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/A-Sports-Logo.png" group-title="Bangla",A Sports
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/157
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/56/f1/eb/56f1eb0481bdd3c59103f27270261159.jpg" group-title="Bangla", WWF
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/153
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/QENIkSv.jpg" group-title="Bangla", Ten Sports
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/163
-
-
-#EXTINF:0 tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/A-Sports-Logo.png" group-title="Bangla",A Sports
-http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
-
-
-
-
-                   
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/6b/6b81c7bbc9baf054b4b45f6d21b16289.jpeg" group-title="Bangla", Discovery HD
-http://tv.alphamediazone.com:8089/thunderbd/43/index.m3u8
-#http://103.81.104.118/hls/discovery.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="Bangla", Discovery
-https://idvd.multitvsolution.com/idvo/discoveryeng_540p/index.m3u8
-#http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Bengali&q=800&e=junk.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Bangla", National Geographic HD Hindi
-http://stream.tvtap.live:8081/live/us-natgeo.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Bangla", National Geographic HD Bangla
-http://topwin-tv.my.id/2/master.m3u8?id=natgeo
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Bangla", National Geographic Wild
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60345
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png" group-title="Bangla", HUM Masala
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/80
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://imgpile.com/images/58J4A1.jpg" group-title="Bangla", BANGLA 21 TV
+https://cdn.appv.jagobd.com:444/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://imgpile.com/images/58JURC.jpg" group-title="Bangla", CHANNEL S
+https://cdn.appv.jagobd.com:444/live-orgin/chsukoff.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://imgpile.com/images/58JTub.png" group-title="Bangla", DOYEL TV
+https://cdn.appv.jagobd.com:444/live-orgin/doyeltv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://imgpile.com/images/58J5B8.jpg" group-title="Bangla", ROYEL TV
+https://cdn.appv.jagobd.com:444/live-orgin/royaltv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://imgpile.com/images/58Lm1P.jpg" group-title="Bangla", NAN IPTV
+https://cdn.appv.jagobd.com:444/live-orgin/nantv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://imgpile.com/images/58Ju8j.jpg" group-title="Bangla", TiMES 24 IPTV
+https://cdn.appv.jagobd.com:444/live-orgin/times24tv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://imgpile.com/images/58KJbk.png" group-title="Bangla", DESHI TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://pbs.twimg.com/profile_images/1586990233983553538/syMkluYC_400x400.jpg" group-title="Bangla", DESH TV
+http://208.86.19.13:81/661.stream/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://imgpile.com/images/58JCCF.jpg" group-title="Bangla", NANDAN TV
+http://nandansyst.com/hls/nandan.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://imgpile.com/images/58iPuS.jpg" group-title="Bangla", I IPTV BD
+http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs72-7auoYvHzLp2dSLozUgQv9Cb00I5o2ElGuRO-LCA&s" group-title="Bangla", IB Tv Usa
+http://208.86.19.13:81/509.stream/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://w7.pngwing.com/pngs/455/120/png-transparent-logo-brand-font-design.png" group-title="Bangla", B-বাংলা টিভি
+http://208.86.19.13:81/504.stream/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mathrubhumi_news.svg/1200px-Mathrubhumi_news.svg.png" group-title="Bangla", Matri Bhumi
+http://tv.anwarlinkisp.com:1895/live/bangladesh/playlist.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/7HplreU.jpg" group-title="Bangla", Nandan TV
+http://nandansyst.com/hls/nandan.m3u8?token=soheliptv01826655778
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://162.244.81.142:1935" group-title="Bangla",  I TV
+http://162.244.81.142:1935/live/livestream/playlist.m3u8?token=soheliptv01826655778
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kappa_tv_in.png" group-title="Bangla", Kappa TV
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://127.0.0.1/" group-title="Bangla",  52 TV
+http://str24.l9574.com/503.stream/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://play-lh.googleusercontent.com/ycYUDpype0qWZmntZa4wP5O-JIHHb2cupFImccyQ68cO3pWIewxq6z5bDPokySwr890" group-title="Bangla", Rang TV
+https://tv.googledrivelinks.com:443/autoq.php?c=Ra
+
+
+
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://i.imgur.com/ESWXan9.png" group-title="Islamic", ATN Islamic
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/QuranTVSA.png"" group-title="Islamic",Quran Tv
+http://m.live.net.sa:1935/live/quran/chunklist_w1932438352.m3u8
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj"" group-title="Islamic",Makkah Live
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://thelogofinder.com/wp-content/uploads/edd/2021/11/Iqra-Bangla.png" group-title="Islamic",Iqra Bangla
+https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Fashion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png"" group-title="Fashion",FashionTV
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://149772863.v2.pressablecdn.com/wp-content/uploads/2017/02/logo-no-background2.jpg.png"" group-title="Discovery",Wild Earth
+https://wildearth-roku.amagi.tv/master.m3u8
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://www.a1blog.net/wp-content/uploads/2020/02/A1-Xplore-TV-Prod-App-Icon-iOS_ICv222.png"" group-title="Discovery",XPLORE
+https://xplore-roku.amagi.tv/playlist720-p.m3u8
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://i.imgur.com/MCyL9wX.png"" group-title="Discovery",National Geographic Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://i.postimg.cc/g28Z2QmT/download-8.png"" group-title="Discovery",National Geographic Abu Dhabi
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discovery.png"" group-title="Discovery",Discovery [BENGALI]
+https://sabbirhasan.pythonanywhere.com/dplus/discovery-ben
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discovery.png"" group-title="Discovery",Discovery [HINDI]
+https://sabbirhasan.pythonanywhere.com/dplus/discovery-hin
+#EXTINF:-1 group-title="Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png"" group-title="Discovery",Discovery HD World
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Discovery_HD_World&q=250&e=Ishan.m3u8
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/animalplanet.png"" group-title="Discovery",Animal Planet [HINDI]
+https://sabbirhasan.pythonanywhere.com/dplus/animalplanet-hin
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/tlc.png"" group-title="Discovery",TLC [HINDI]
+https://sabbirhasan.pythonanywhere.com/dplus/tlc-hin
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://i.postimg.cc/vm2VwySK/a3bJ6x5.png"" group-title="Discovery",AFV Family
+https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
+
+
+
+
+
+
+
+Hindi
+
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/NNrhMTT/ATN-Music.jpg" group-title="Music", Atn Music
+https://cdn.appv.jagobd.com:444/live-orgin/atnmusic.stream/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.9xtashan.in/wp-content/uploads/2016/04/logo.png""  group-title="Music",9x Tashan
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XTashan/9XTashan.isml/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/up2mMgD.png""  group-title="Music",MTV YO! HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/g0C32DBt/DJhTTmR.png""  group-title="Music",Music India
+https://pull-3188.5centscdn.com/vizjsj1apjkea3/SMIL:Music_India.smil/chunklist_w449834619_b1044100_sleng.m3u8
+#https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Mastiii-TV_logo.jpg""  group-title="Music",Music Mastii
+https://tv.googledrivelinks.com:443/autoq.php?c=Mastiii
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/j52Mt2wq/image.png""  group-title="Music",Dil Se
+https://live.hungama.com/linear/dil-se/playlist.m3u8?token=soheliptv01826655778
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/6pd1TJx7/220px-E24-TV-Channel.jpg""  group-title="Music",E24
+http://208.86.19.13:81/719.stream/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/J0L0y4xD/download-13.jpg""  group-title="Music",MTV YO! HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+#EXTINF:-1 tvg-id="585" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png""  group-title="Music",Zing
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Zi&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="587" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png""  group-title="Music",9XM
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=9XM&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="591" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png""  group-title="Music",E 24
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=E_24&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="183" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png""  group-title="Music",B4U Music
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=B4U_Music&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="592" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png""  group-title="Music",ZOOM
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Zoom&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="248" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png""  group-title="Music",MTV
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=MTV&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="248" group-title="Music" tvg-logo="https://www.nicepng.com/png/detail/227-2276139_desi-channel-logo-desi-channel.png""  group-title="Music",Deshi Channel
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="592" group-title="Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Bindass.png/revision/latest?cb=20190720101806""  group-title="Music",Bindass
+https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="248" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png""  group-title="Music",8X music
+http://144.217.70.181:9587/hin2/8XM/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="248" group-title="Music" tvg-logo="https://bestmediainfo.com/uploads/2016/09/mtv-beats-top.jpg""  group-title="Music",MTV BEATES HD
+http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8?token=test
+#EXTINF:-1 tvg-id="440" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png""  group-title="Music",9X Jalwa
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=9X_Jalwa&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="773" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Public_Music.png""  group-title="Music",Public Music
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Public_Music&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="420" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png""  group-title="Music",Jaya Max
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Jaya_Max&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="741" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bhojpuri.png""  group-title="Music",Sangeet Bhojpuri
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Sangeet_Bhojpuri&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="420" group-title="Music" tvg-logo="https://i.postimg.cc/NLqTp8f3/image.jpg""  group-title="Music",Steelbird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="420" group-title="Music" tvg-logo="https://i.ibb.co/F4dKRnM/mtvwma.jpg""  group-title="Music",MTV WMA HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwOwzMUT7rfAbfa46mMzqppbol9oxaQCUYBG1EuQvPJ-pbQOhSSQ42zysSUAfDTzWyuH8&usqp=CAU" group-title="Cartun", Cartoon Network HD
+http://190.131.228.59:8000/play/a0je/index.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Cartun", Pogo Hindi
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Pogo_Hindi&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartun", Nick
+https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Cartun", Nick Hindi
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Nick_Hindi&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/POGO-logo.svg/2560px-POGO-logo.svg.png" group-title="Cartun", POGO
+http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/816/983/png-transparent-logo-brand-trademark-nick-jr-enchanted-forest-text-trademark-logo.png" group-title="Cartun", Nick Jr. Dora TV
+https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest?cb=20191215110016" group-title="Cartun", Rongeen tv
+http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w816006548.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Cartun", Duronto TV 
+http://89.187.185.89:3232/ban-duronto/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qm3X46H.png" group-title="Cartun", SPACETOON KIDS
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="144" group-title="Pakistan" tvg-logo="https://www.fashioncentral.pk/wp-content/uploads/2013/12/hum-sitaray.jpg""  group-title="Pakistan",GEO
+http://208.86.19.13:81/603.stream/index.m3u8
+#EXTINF:-1 tvg-id="144" group-title="Pakistan" tvg-logo="https://cdn.bleacherreport.net/images/team_logos/328x328/pakistan_cricket.png""  group-title="Pakistan",Times TV
+http://208.86.19.13:81/513.stream/index.m3u8
+#EXTINF:-1 tvg-id="144" group-title="Pakistan" tvg-logo="https://www.fashioncentral.pk/wp-content/uploads/2013/12/hum-sitaray.jpg""  group-title="Pakistan",HUM Sitary PK
+http://208.86.19.13:81/692.stream/index.m3u8
+#EXTINF:-1 tvg-id="144" group-title="Pakistan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Express_News_logo.png""  group-title="Pakistan",EXpress PK
+http://208.86.19.13:81/643.stream/index.m3u8
+#EXTINF:-1 tvg-id="144" group-title="Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Star_bharat_hd_clean.png/revision/latest/scale-to-width-down/250?cb=20210520182310""  group-title="Hindi",Star Bharat HD
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
+#EXTINF:-1 tvg-id="144" group-title="Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/SET_HD_2013.jpg/revision/latest?cb=20180625125753""  group-title="Hindi", Sony
+http://45.232.210.1:8062/play/a0b5/index.m3u8
+#EXTINF:-1 tvg-id="144" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png""  group-title="Hindi",Colors HD
+https://tv.googledrivelinks.com:443/autoq.php?c=Colors_HD
+EXTINF:-1 tvg-id="144" group-title="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Sony_Entertainment_Television_logo.png""  group-title="Hindi",Sony HD
+https://tv.googledrivelinks.com:443/autoq.php?c=Sony_HD
+#EXTINF:-1 tvg-id="167" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png""  group-title="Hindi",Zee TV HD
+https://tv.googledrivelinks.com:443/autoq.php?c=Zee_TV_HD
+#EXTINF:-1 tvg-id="155" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png""  group-title="Sports", Sony Six HD
+https://tv.googledrivelinks.com:443/autoq.php?c=Six_HD
+#EXTINF:-1 tvg-id="154" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png""  group-title="Hindi",Sony SAB
+https://tv.googledrivelinks.com:443/autoq.php?c=Sony_SAB
+#EXTINF:-1 tvg-id="472" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png""  group-title="Hindi",And TV HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=And_TV_HD&q=250&e=Ishan.m3u8
+#https://tv.googledrivelinks.com:443/autoq.php?c=And_TV_HD
+#EXTINF:-1 tvg-id="279" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png""  group-title="Hindi",Rishtey
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Rishtey&q=250&e=Ishan.m3u8
+#https://tv.googledrivelinks.com:443/autoq.php?c=Rishtey
+#EXTINF:-1 tvg-id="473" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png""  group-title="Movi",Zee Anmol
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Zee_Anmol&q=250&e=Ishan.m3u8
+#https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Anmol
+#EXTINF:-1 tvg-id="474" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png""  group-title="Movi",Sony Pal
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Sony_Pal&q=250&e=Ishan.m3u8
+#https://tv.googledrivelinks.com:443/autoq.php?c=Sony_Pal
+#EXTINF:-1 tvg-id="471" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Sony_SAB_HD&q=250&e=Ishan.m3u8
+#https://tv.googledrivelinks.com:443/autoq.php?c=Sony_SAB_HD
+#EXTINF:-1 tvg-id="445" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png""  group-title="Movi",Zee Marathi
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Zee_Marathi&q=250&e=Ishan.m3u8
+#https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Marathi
+#EXTINF:-1 tvg-id="755" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png""  group-title="Hindi",Colors Marathi HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Colors_Marathi_HD&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="757" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png""  group-title="Hindi",Colors Kannada HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Colors_Kannada_HD&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="689" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada.png""  group-title="Movi",Zee Kannada
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Zee_Kannada&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="1157" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png""  group-title="Hindi",Comedy Central HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Comedy_Central_HD&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="1157" group-title="Hindi" tvg-logo="https://i.postimg.cc/0Nm4xLcF/mvtv.jpg""  group-title="Hindi",Magnavision TV
+https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
+#EXTINF:-1 tvg-id="638" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png""  group-title="Movi",Zee Telugu
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Zee_Telugu&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="628" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png""  group-title="Movi",Zee Tamil
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Zee_Tamil&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="196" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png""  group-title="Hindi",Colors Gujarati
+https://tv.googledrivelinks.com:443/autoq.php?c=Colors_Gujarati
+#EXTINF:-1 tvg-id="625" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png""  group-title="Bangla",Zee Bangla
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Zee_Bangla&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="625" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png""  group-title="Bangla",Colors Bengali HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Colors_Bengali_HD&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="1158" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png""  group-title="Hindi",Colors Infinity HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Colors_Infinity_HD&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="414" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png""  group-title="Movi",Zee Yuva
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Zee_Yuva&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="532" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png""  group-title="Movi",Dabangg
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Daba&q=250&e=Ishan.m3u8
+#EXTINF:-1 group-title="Movi" tvg-logo="https://i.postimg.cc/NGHHZ32V/wzQh674.png""  group-title="Movi",Tamil Vision
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-1 group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png""  group-title="Movi",Colors Tamil HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Colors_Tamil_HD&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="476" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png""  group-title="Movi",Sony Max HD
+https://tv.googledrivelinks.com:443/autoq.php?c=Sony_Max_HD
+#EXTINF:-1 tvg-id="165" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png""  group-title="Movi",Zee Cinema HD
+https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Cinema_HD
+#EXTINF:-1 tvg-id="165" group-title="Movi" tvg-logo="https://i.postimg.cc/jqvd8C9d/JEL1MNo.png""  group-title="Movi",MK SIX
+http://idvd.multitvsolution.com/idvo/mksix.m3u8
+#EXTINF:-1 tvg-id="165" group-title="Movi" tvg-logo="https://i.postimg.cc/ZYLQyX02/ci33zkV.jpg""  group-title="Movi",Santhora ShortFlim
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
+#EXTINF:-1 tvg-id="165" group-title="Movi" tvg-logo="https://i.postimg.cc/wjTv5K6r/JUrBZTZ.png""  group-title="Movi",Sooriyan TV
+http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
+#EXTINF:-1 tvg-id="165" group-title="Movi" tvg-logo="https://i.postimg.cc/Bn6c4jSx/download-3.png""  group-title="Movi",CinemaWorld
+http://210.210.155.35:80/dr9445/h/h04/01.m3u8
+#EXTINF:-1 tvg-id="165" group-title="Movi" tvg-logo="https://i.postimg.cc/QdqMwJSw/download-16.jpg""  group-title="Movi",Zee Aflam (UAE)
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:-1 tvg-id="165" group-title="Movi" tvg-logo="https://i.postimg.cc/gjRM2JTX/220px-Zee-Alwan-logo.jpg""  group-title="Movi",Zee Alwan (UAE)
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+#EXTINF:-1 tvg-id="165" group-title="Movi" tvg-logo="https://i.postimg.cc/FFnsmvnv/250px-K-Plus-Asia-Logo.jpg""  group-title="Movi",K+ (South Korea)
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+#EXTINF:-1 tvg-id="165" group-title="Movi" tvg-logo="https://i.postimg.cc/FRVNWD1L/KBS-World.png""  group-title="Movi",KBS World (South Korea)
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="483" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png""  group-title="Movi",And Pictures HD
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=And_Pictures_HD&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="483" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png""  group-title="Movi",Colors Cineplex
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Colors_Cineplex&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="483" group-title="Movi" tvg-logo="https://i.postimg.cc/NMbBNQGB/kcv-movies.jpg""  group-title="Movi",KCV Movies
+http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="483" group-title="Movi" tvg-logo="https://i.ibb.co/hXjTT6q/Booglebolly.jpg""  group-title="Movi",Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 tvg-id="185" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png""  group-title="Movi",And Pictures HD
+https://tv.googledrivelinks.com:443/autoq.php?c=And_Pictures_HD
+#EXTINF:-1 tvg-id="484" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png""  group-title="Movi",Zee Cinema
+https://tv.googledrivelinks.com:443/autoq.php?c=Zee_Cinema
+#EXTINF:-1 tvg-id="182" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png""  group-title="Movi",B4U Movies
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=B4U_Movies&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="487" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png""  group-title="Movi",Zee Bollywood
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Zee_Classic&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="486" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png""  group-title="Movi",Bhojpuri Cinema
+https://tv.googledrivelinks.com:443/autoq.php?c=Bhojpuri_Cinema
+#EXTINF:-1 tvg-id="485" group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png""  group-title="Bangla",Enterr 10
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Enterr_10&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="488" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png""  group-title="Movi",Zee Action
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Zee_Actio&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png""  group-title="Movi",Zee Cinemalu
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Zee_Cinemalu&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="415" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png""  group-title="Movi",Zee Anmol Cinema
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Zee_Anmol_Cinema&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png""  group-title="Movi",Sony Max HD(BD)
+http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Action.png""  group-title="Movi",UTV Action(BD)
+http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://i.postimg.cc/TPHShbww/TZceYby.png""  group-title="Movi",One TV
+http://137.59.86.218:1935/live/onetv/chunklist_w439742991.m3u8
+#EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png""  group-title="Movi",Sony Max
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=SET_MAX&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg""  group-title="Movi",Sony Max-2
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Sony_MAX2&q=250&e=Ishan.m3u8
+#http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://images.useetv.com/logo_new-myfamily_small.png""  group-title="Movi",My Family Cinema
+http://210.210.155.35/uq2663/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Family_Channel_Trial-
+#EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png""  group-title="Movi",Zee_Bioskop
+http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png""  group-title="Movi",HBO
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png""  group-title="Movi",Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8
+#EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://api.b4uapac.com/images/1659705560New%20B4U%20Aflam.png""  group-title="Movi",b4uaflam
+http://livecdnh3.tvanywhere.ae/hls/b4uaflam/index.m3u8
+#EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://pbs.twimg.com/profile_images/1228478265/tvilogo_400x400.jpg""  group-title="Movi",tamilvision
+http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
+#http://210.210.155.35/qwr9ew/s/s32/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Zee_Bioskop
+#EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545""  group-title="Movi",B4U MOVIES
+http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest?cb=20200320100818""  group-title="Movi",B4u KADAK
+http://103.199.160.85/Content/moviehouse/Live/Channel%28MovieHouse%29/index.m3u8
+#http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png""  group-title="Movi",MON TAMIL TV
+http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png""  group-title="Movi",Star Gold HD
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png""  group-title="Movi",Star Gold 2
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png""  group-title="Movi",Zee Cinema
+https://epic-austin.128-199-17-57.plesk.page/Ishan-JioTV-autoq.php?c=Zee_Cinema&q=250&e=Ishan.m3u8
+#EXTINF:-1 tvg-id="413" group-title="Movi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg""  group-title="Movi",Zee Cinema HD Test
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
